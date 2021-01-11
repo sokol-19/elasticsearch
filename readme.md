@@ -42,34 +42,31 @@ XML должен быть загружен в Elasticsearch через Spring Da
 ### Сборка приложения
 Варианты сборок приложения:
 + Обычная сборка приложения
-
-    mvn clean package
+  
+      mvn clean package
     
-+ Сборка приложения с оправкой его в контейнер
-
-    mvn clean package
-    
-    // запуск из каталога с исходниками
-    
-    docker build --tag vsokol17/appes:1.0 -f .\Dockerfile.ex .
-    
-    // запуск контейнера с приложением
-    
-    docker run -d --name app-es --network=docker-net -p 8081:8080 vsokol17/appes:1.0
++ Сборка приложения с оправкой его в контейнер 
+  
+      mvn clean package
+      // запуск из каталога с исходниками
+      docker build --tag vsokol17/appes:1.0 -f .\Dockerfile.ex .
+      // запуск контейнера с приложением
+      docker run -d --name app-es --network=docker-net -p 8081:8080 vsokol17/appes:1.0
 
 где docker-net - сеть типа bridge
 
 + Сборка приложения внутри контейнера
 
-    // запуск из каталога с исходниками
-    
-    docker build --tag vsokol17/appes:1.0 -f .\Dockerfile.in .
-    
-    // запуск контейнера с приложением
-    
-    docker run -d --name app-es --network=docker-net -p 8081:8080 vsokol17/appes:1.0
+      // запуск из каталога с исходниками
+      docker build --tag vsokol17/appes:1.0 -f .\Dockerfile.in .
+      // запуск контейнера с приложением
+      docker run -d --name app-es --network=docker-net -p 8081:8080 vsokol17/appes:1.0
 
 где docker-net - сеть типа bridge
+
++ Сборка и запуск приложения в контейнерах
+  
+      docker-compose up
 
 Для контейнерных сборок использовался образ maven:3.6.1-jdk-8-alpine 
 

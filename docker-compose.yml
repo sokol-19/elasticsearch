@@ -1,0 +1,23 @@
+version: '2'
+services:
+  elasticsearch:
+    image: elasticsearch:7.10.1
+    container_name: elasticsearch
+    ports:
+    - "9200:9200"
+    networks:
+      - es-tier
+    environment:
+      - discovery.type=single-node
+  app-es:
+    build: .
+    container_name: app-es
+    ports:
+    - "8081:8080"
+    links:
+      - elasticsearch
+    networks:
+      - es-tier
+networks:
+  es-tier:
+    driver: bridge
