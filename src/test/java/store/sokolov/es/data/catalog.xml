@@ -1,0 +1,2186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc_catalog last_update="2021-01-09 12:25:08"><delivery_service><categories><category id="111">Товары с платной доставкой</category>
+<category id="137">Турбо-суши</category>
+<category id="141">Турбо-гунканы</category>
+<category id="147">Турбо-сашими</category>
+<category id="117">Турбо роллы (1-я категория)</category>
+<category id="65">Вегетарианское</category>
+<category id="143">Турбо роллы (2-я категория)</category>
+<category id="145">Турбо роллы (3-я категория)</category>
+<category id="119">Турбо-сеты</category>
+<category id="131">Турбо-закуски</category>
+<category id="149">Daily-меню</category>
+<category id="127">Турбо-супы</category>
+<category id="2">Суши</category>
+<category id="115">Сувениры</category>
+<category id="129">Турбо-салаты</category>
+<category id="159">Защита</category>
+<category id="123">Турбо-горячее</category>
+<category id="121">Турбо-десерты</category>
+<category id="125">Турбо-моджи</category>
+<category id="135">Турбо-напитки хенд мейд</category>
+<category id="133">Турбо-напитки бутилированные</category>
+<category id="15">Сашими</category>
+<category id="9">Роллы</category>
+<category id="13">Сеты</category>
+<category id="75">Дим-самы</category>
+<category id="14">Салаты</category>
+<category id="16">Закуски</category>
+<category id="17">Супы</category>
+<category id="18">Горячее</category>
+<category id="21">Десерты</category>
+<category id="113">Моджи</category>
+<category id="22">Детское</category>
+<category id="23">Соусы</category>
+<category id="24">Напитки</category>
+<category id="6" parentId="2">Нигири</category>
+<category id="7" parentId="2">Гункан</category>
+<category id="10" parentId="9">Традиционные</category>
+<category id="11" parentId="9">Теплые</category>
+<category id="12" parentId="9">Спринг</category>
+<category id="95" parentId="9">Калифорния роллы</category>
+<category id="97" parentId="9">Фирменные роллы</category>
+<category id="105" parentId="13">Классические</category>
+<category id="99" parentId="13">De Luxe</category>
+<category id="26" parentId="16">Холодные</category>
+<category id="27" parentId="16">Горячие</category>
+<category id="28" parentId="18">Из риса</category>
+<category id="29" parentId="18">Из лапши</category>
+<category id="30" parentId="18">Из рыбы</category>
+<category id="31" parentId="18">Из мяса</category>
+<category id="32" parentId="18">Из птицы</category>
+<category id="19" parentId="18">Шашлычки</category>
+<category id="20" parentId="18">Теппан</category>
+<category id="37" parentId="24">Газированные напитки</category>
+<category id="36" parentId="24">Минеральная вода</category>
+<category id="60" parentId="24">Соки</category>
+<category id="33" parentId="24">Фреш соки</category>
+<category id="35" parentId="24">Домашние напитки</category>
+<category id="103" parentId="24">Коктейли</category>
+<category id="3">Рацион</category>
+</categories>
+<products><product id="1495"><category_id>10</category_id>
+<name>Ямато</name>
+<description>Лосось, креветка, краб-микс, сыр, огурец, омлет, тобико, кунжут, соус «Ажи-маракуйя», зеленый лук, 6 шт.</description>
+<price>425</price>
+<picture>https://static4.tanuki.ru/product/1/5aKkVuNIiv9u3ypUj2a2sH-d6oU4J3f4.jpg</picture>
+</product>
+<product id="1496"><category_id>10</category_id>
+<name>Сэнсэй</name>
+<description>Креветка темпура, лосось, огурец, авокадо, сыр, перец чили, микс соусов, кунжут, 6 шт.</description>
+<price>425</price>
+<picture>https://static4.tanuki.ru/product/1/VYqSvmA1QAjn9PtENZ8bczpCnFnqPp28.jpg</picture>
+</product>
+<product id="1497"><category_id>10</category_id>
+<name>Гауди</name>
+<description>Лосось копченый, руккола, перец, сыр, авокадо, кунжут, зеленый лук, 6 шт.</description>
+<price>390</price>
+<picture>https://static4.tanuki.ru/product/1/-ETWuYaK5dHQ2cjQ2KPwu8k4UlHrQnQV.jpg</picture>
+</product>
+<product id="1499"><category_id>10</category_id>
+<name>Тануки</name>
+<description>Креветка, краб-микс, гуакамоле, сыр, огурец, микс соусов, тобико, кунжут, 6 шт.</description>
+<price>455</price>
+<picture>https://static4.tanuki.ru/product/1/t-r9k6o4KoYnIdkfkGOl-t5WE12oF8Dx.jpg</picture>
+</product>
+<product id="1500"><category_id>29</category_id>
+<name>Лапша с морепродуктами</name>
+<description>Кальмар, креветки, овощи, грибы шиитаке, кунжут, лапша удон,</description>
+<price>395</price>
+<picture>https://static4.tanuki.ru/product/1/YGhaaUgd-VSP4bbcaPjuab0q-YA_H789.jpg</picture>
+</product>
+<product id="1502"><category_id>32</category_id>
+<name>Курица по-тайски с рисом</name>
+<description>Курица, соус «Чили тай», рис.</description>
+<price>360</price>
+<picture>https://static4.tanuki.ru/product/1/xxmMlJBsDs2CMhnE-sRre_nJIgmUDiso.jpg</picture>
+</product>
+<product id="1505"><category_id>14</category_id>
+<name>Теплый салат с курицей  и баклажанами</name>
+<description>Курица, баклажаны, киноа, авокадо, соус орехово-кунжутный, кунжут.</description>
+<price>395</price>
+<picture>https://static4.tanuki.ru/product/1/R_5auJlIMy_iDaWkf9TTK0mnjmJc59bH.jpg</picture>
+</product>
+<product id="1509"><category_id>75</category_id>
+<name>Лосось и креветка</name>
+<description>С лососем и креветкой (4 шт.) + соус "Шогояки" и соус "Кохаку"</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/je_cZdCV5d5-Sw_ZJyykCNphVcwC6Z55.jpg</picture>
+</product>
+<product id="1517"><category_id>113</category_id>
+<name>Моджи Mymo "Спелая клубника"</name>
+<description>Традиционное японское мороженое со вкусом клубники в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/mlqI0d14y9H_z9ybvGTUO_NoO6NeRZOy.jpg</picture>
+</product>
+<product id="1518"><category_id>113</category_id>
+<name>Моджи Mymo "Сладкое манго"</name>
+<description>Традиционное японское мороженое со вкусом манго в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/IMDrGu_e70M2OZfoBl2tDH9NbvLkyuab.jpg</picture>
+</product>
+<product id="1519"><category_id>113</category_id>
+<name>Моджи Mymo "Ваниль"</name>
+<description>Традиционное японское мороженое со вкусом ванили в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/86OOGScLY7vGWk3vnL2OOJwKXQatmT2V.jpg</picture>
+</product>
+<product id="1520"><category_id>113</category_id>
+<name>Моджи Mymo "Два шоколада"</name>
+<description>Традиционное японское мороженое со вкусом два шоколада в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/dPqrgptPdfoQX2a3Wi-Nxj4lUAZwqnqW.jpg</picture>
+</product>
+<product id="1521"><category_id>113</category_id>
+<name>Моджи Mymo "Мята-шоколадная стружка"</name>
+<description>Традиционное японское мороженое со вкусом мята-шоколадная стружка в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/I-WUZ-aRwI3DxhZMV54TcEQgJ-ooYHt5.jpg</picture>
+</product>
+<product id="1522"><category_id>113</category_id>
+<name>Моджи Mymo "Печенье и сливки"</name>
+<description>Традиционное японское мороженое со вкусом печенья и сливок в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/Twa1SswO00FmsKYbaW3XS_sxw8UEM3mF.jpg</picture>
+</product>
+<product id="1523"><category_id>113</category_id>
+<name>Моджи Mymo "Зеленый чай"</name>
+<description>Традиционное японское мороженое со вкусом зеленого чая в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/1YKP78fwjrQjVk4Dkmtq7w9cC2-D4NV8.jpg</picture>
+</product>
+<product id="1524"><category_id>113</category_id>
+<name>Моджи Mymo "Ваниль"</name>
+<description>Вегетарианское японское мороженое со вкусом ванили в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/7wXZ1mZL88njzh3tkNFbt-C5bNJZpjIW.jpg</picture>
+</product>
+<product id="1525"><category_id>113</category_id>
+<name>Моджи Mymo "Клубника"</name>
+<description>Вегетарианское японское мороженое со вкусом клубники в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/FajbLlQ5ZTmttqmzeLlugC6f3cysF8yQ.jpg</picture>
+</product>
+<product id="1526"><category_id>113</category_id>
+<name>Моджи Mymo "Шоколад"</name>
+<description>Вегетарианское японское мороженое со вкусом шоколада в тонком рисовом тесте. 6 шт.</description>
+<price>1140</price>
+<picture>https://static4.tanuki.ru/product/1/po-uQKd-Jf_-KnISOSsKaQWWcDXUHx9_.jpg</picture>
+</product>
+<product id="1556"><category_id>14</category_id>
+<name>Авокадо хот</name>
+<description>Печеный авокадо, 
+тофу, томаты, 
+перечный соус</description>
+<price>355</price>
+<picture>https://static6.tanuki.ru/product/1/1A6sFpNmk8KxxpP4OqzT1MENOiPRB8Mw.jpg</picture>
+</product>
+<product id="1591"><category_id>149</category_id>
+<name>Ланч с курицей</name>
+<description>Калифорния, салат кофу, тяхан с курицей, булочка с кунжутом. На эту позицию меню не действуют скидки</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/g5rRAllLUYIcPUyZI2giKJfqXxZIdHYo.jpg</picture>
+</product>
+<product id="1592"><category_id>149</category_id>
+<name>Ланч с бургером</name>
+<description>Бургер с говядиной, картофель фри, цезарь с курицей. На эту позицию меню не действуют скидки</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/RoHLeBH_XsG6SAIfZMdwM_4O1CKtSMWL.jpg</picture>
+</product>
+<product id="1604"><category_id>113</category_id>
+<name>Моджи Bubbies "Печенье – шоколадная крошка"</name>
+<description>Традиционное японское мороженое со вкусом печенье – шоколадная крошка в тонком рисовом тесте.
+6 шт.</description>
+<price>1240</price>
+<picture>https://static6.tanuki.ru/product/1/JGRMfE87IGaWxSUO2awGu_Ynlf1hBaeF.jpg</picture>
+</product>
+<product id="1605"><category_id>113</category_id>
+<name>Моджи Bubbies "Брауни с мороженым"</name>
+<description>Традиционное японское мороженое со вкусом брауни с мороженым в тонком рисовом тесте.6 шт.</description>
+<price>1240</price>
+<picture>https://static6.tanuki.ru/product/1/-a9oAcQKMq5v9YoJ24tXz5Cs56UomZqe.jpg</picture>
+</product>
+<product id="1606"><category_id>113</category_id>
+<name>Моджи Bubbies "Именинный пирог"</name>
+<description>Традиционное японское мороженое со вкусом именинный пирог крошка в тонком рисовом тесте.6 шт.</description>
+<price>1240</price>
+<picture>https://static6.tanuki.ru/product/1/2FiGvgnCr7_aORqiB9QTGKL06cUQSChZ.jpg</picture>
+</product>
+<product id="1607"><category_id>113</category_id>
+<name>Моджи Bubbies "Сахарное печенье"</name>
+<description>Традиционное японское мороженое со вкусом сахарное печенье в тонком рисовом тесте.
+6 шт.</description>
+<price>1240</price>
+<picture>https://static6.tanuki.ru/product/1/LwiHorBkV3YyU9ielrPfo7fK1QKgrWSF.jpg</picture>
+</product>
+<product id="1700"><category_id>22</category_id>
+<name>Куриные наггетсы с картофельным пюре</name>
+<description>Курица, яйцо, панировочные сухари, картофель, сливки, сливочное масло, сыр</description>
+<price>235</price>
+<picture>https://static6.tanuki.ru/product/1/04ggqX91YObbhsH9LiT90_qytNHoTzHb.jpg</picture>
+</product>
+<product id="1701"><category_id>22</category_id>
+<name>Бургер с курицей</name>
+<description>Курица, яйцо, сыр, салат, огурец, томат, кетчуп, сырный соус, булочка, кунжут, картофель фри</description>
+<price>255</price>
+<picture>https://static6.tanuki.ru/product/1/EXCbRko89brwuui87LJV0qlsE6CvzquT.jpg</picture>
+</product>
+<product id="1702"><category_id>22</category_id>
+<name>Картофельное пюре</name>
+<description>Картофель, молоко, сливки, масло сливочное, укроп</description>
+<price>95</price>
+<picture>https://static6.tanuki.ru/product/1/FZj00Xz6Z9WtXj2i5SHPrFRCzv8x-yyk.jpg</picture>
+</product>
+<product id="1703"><category_id>22</category_id>
+<name>Картофель фри</name>
+<description>Картофель, кетчуп</description>
+<price>95</price>
+<picture>https://static6.tanuki.ru/product/1/ncOmMRHmLfZ0VrSslb4WdQIKdl47VvPq.jpg</picture>
+</product>
+<product id="1704"><category_id>22</category_id>
+<name>Панкейки</name>
+<description>Мука пшеничная, молоко, яйцо, сгущенка, клубника, голубика</description>
+<price>155</price>
+<picture>https://static6.tanuki.ru/product/1/MPg2Ho4vlgpHokKlVfCleT-ZKhmax88t.jpg</picture>
+</product>
+<product id="1705"><category_id>22</category_id>
+<name>Морс клюквенный 500 мл</name>
+<description>500 мл.</description>
+<price>230</price>
+<picture>https://static6.tanuki.ru/product/1/yAJv9Vz6Ldi3vuqYebjPOar92o4lEgFM.jpg</picture>
+</product>
+<product id="1706"><category_id>22</category_id>
+<name>Морс черничный 500 мл</name>
+<description>500 мл.</description>
+<price>230</price>
+<picture>https://static6.tanuki.ru/product/1/CN2CPb9-O90Dzw2iU3L8eB12DfSdSFI9.jpg</picture>
+</product>
+<product id="1699"><category_id>22</category_id>
+<name>Kid’s Box с куриными наггетсами</name>
+<description>Куриные наггетсы, картофель фри, кетчуп, овощная закуска с сырным соусом, фруктовый ролл</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/830RfsdUQ0bVEKGWaH2MjqaDe56Go3oM.jpg</picture>
+</product>
+<product id="1709"><category_id>22</category_id>
+<name>Фруктовый ролл</name>
+<description>Ананас, киви, сырный крем, малиновый соус</description>
+<price>125</price>
+<picture>https://static6.tanuki.ru/product/1/JEFGTu1CpYvcsStVnqpzLjicNmzLz4wD.jpg</picture>
+</product>
+<product id="1710"><category_id>22</category_id>
+<name>Шоколадный ролл</name>
+<description>Ананас, киви, клубника, банан, миндаль, сырный крем, шоколадный соус</description>
+<price>125</price>
+<picture>https://static6.tanuki.ru/product/1/G7mt-8NFaQzyQnAv4d7cz7frAk9_nLnR.jpg</picture>
+</product>
+<product id="1005"><category_id>22</category_id>
+<name>Kid’s Box с куриным бургером</name>
+<description>Бургер с  курицей, картофель  фри, кетчуп, овощная закуска с сырным соусом, шоколадный ролл</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/Wm3gdhjP4_xcKwci4KEOZo40cghvr3hH.jpg</picture>
+</product>
+<product id="1712"><category_id>10</category_id>
+<name>Тунец Фьюжн</name>
+<description>Тунец, огурец, авокадо, сыр, кинза, лук фри</description>
+<price>460</price>
+<picture>https://static6.tanuki.ru/product/1/d4aOyGnpYfxqRUUq-JgK6RWYLzUyelAT.jpg</picture>
+</product>
+<product id="1716"><category_id>10</category_id>
+<name>Калифорния Дрим</name>
+<description>Креветка, авокадо, краб-микс, сыр, соус «Спайси манго», тобико, кунжут, 6 шт.</description>
+<price>465</price>
+<picture>https://static6.tanuki.ru/product/1/Do5-ptttszMlBkp8WA4-8QePl-FJ6sav.jpg</picture>
+</product>
+<product id="1717"><category_id>10</category_id>
+<name>Филадельфия Нисуаз</name>
+<description>Угорь, авокадо, сыр, имбирь, тобико, соус «Нисуаз», кунжут, 6 шт.</description>
+<price>465</price>
+<picture>https://static6.tanuki.ru/product/1/J5v5BJQMZKWeo1qpEIYxFgiWjqP7mOQ1.jpg</picture>
+</product>
+<product id="1718"><category_id>10</category_id>
+<name>Филадельфия Смоук</name>
+<description>Лосось копченый, курица копченая, омлет, огурец, авокадо, сыр, микс соусов, 6 шт.</description>
+<price>465</price>
+<picture>https://static6.tanuki.ru/product/1/Zwj_eV5vcYtk_pLpnT1ojdtdR6BFotIi.jpg</picture>
+</product>
+<product id="1721"><category_id>10</category_id>
+<name>Калифорния Ажи</name>
+<description>Лосось, авокадо, краб-микс, сыр, соус «Ажи-маракуйя», тобико, кунжут, 6 шт.</description>
+<price>465</price>
+<picture>https://static6.tanuki.ru/product/1/4G-A0Um_RNi7TC3x64ya3Q8HwGsM6sQP.jpg</picture>
+</product>
+<product id="1722"><category_id>7</category_id>
+<name>Темаки с угрем</name>
+<description>Угорь, авокадо, омлет, кунжут, соус «Свит васаби»</description>
+<price>240</price>
+<picture>https://static6.tanuki.ru/product/1/QBNIPEYO7a8CZVqepydW8I1R4JecBI5e.jpg</picture>
+</product>
+<product id="1723"><category_id>7</category_id>
+<name>Темаки с лососем</name>
+<description>Лосось, авокадо, сыр, соус «Ажи-маракуйя»</description>
+<price>240</price>
+<picture>https://static6.tanuki.ru/product/1/bAjDZMPTW_zEh0-M2gvas5K2BmQUhvyT.jpg</picture>
+</product>
+<product id="1724"><category_id>7</category_id>
+<name>Темаки с креветкой</name>
+<description>Креветка, манго, авокадо, соус «Спайси манго»</description>
+<price>240</price>
+<picture>https://static6.tanuki.ru/product/1/dYmQmAeBA_v6crJPMo4XVJZb9kCNRDYF.jpg</picture>
+</product>
+<product id="1728"><category_id>29</category_id>
+<name>Лапша Самбал-Бали</name>
+<description>Креветки, кальмар, шампиньоны, горох стручковый, томаты черри, лапша удон, соус «Самбал», кунжут</description>
+<price>455</price>
+<picture>https://static6.tanuki.ru/product/1/AED_dNvLkgdnGgh_FRwXEkXeJko1iyb6.jpg</picture>
+</product>
+<product id="1730"><category_id>30</category_id>
+<name>Кальмар Свит-чили</name>
+<description>Кальмар, баклажан, брокколи, томаты, кинза, кунжут, соусы «Кальби» и «Свит чили»</description>
+<price>425</price>
+<picture>https://static6.tanuki.ru/product/1/mEoQs2LoPr_J3rsAtuljsqecond3u7Ol.jpg</picture>
+</product>
+<product id="1732"><category_id>27</category_id>
+<name>Спринг ролл с креветкой</name>
+<description>Креветка, манго, руккола, вяленые томаты, кинза, микс соусов</description>
+<price>355</price>
+<picture>https://static6.tanuki.ru/product/1/yzsQa0nKHIYrEYdMEonWZVe9b7DXBycd.jpg</picture>
+</product>
+<product id="1733"><category_id>27</category_id>
+<name>Страчателла с трюфелем и цветной капустой</name>
+<description>Цветная капуста, страчателла, трюфельный дрессинг, кунжут</description>
+<price>390</price>
+<picture>https://static6.tanuki.ru/product/1/bmylWWBBvl7X7oVWLDtqWBM89o-iMSZ0.jpg</picture>
+</product>
+<product id="1735"><category_id>26</category_id>
+<name>Бан с курицей</name>
+<description>Курица, латук, огурец, болгарский перец, кунжут, микс фирменных соусов, пшеничная булочка</description>
+<price>245</price>
+<picture>https://static6.tanuki.ru/product/1/tMUsCIWUtR-vPuubnZjxdQJwvOUz-tpI.jpg</picture>
+</product>
+<product id="1736"><category_id>26</category_id>
+<name>Бан с говядиной</name>
+<description>Говядина, латук, огурец, лук, кинза, микс фирменных соусов,пшеничная булочка</description>
+<price>260</price>
+<picture>https://static6.tanuki.ru/product/1/xFzzoStrJQcCY8soH3gx7tna6vF3criM.jpg</picture>
+</product>
+<product id="1738"><category_id>27</category_id>
+<name>Лосось-юдзу</name>
+<description>Лосось, авокадо, шпинат, соус «Юдзу с горчицей», обжаренный на лимонном масле рис, кунжут</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/NvXv5-gJq8m29q-oNqY4y33j-nYQ-63W.jpg</picture>
+</product>
+<product id="1739"><category_id>19</category_id>
+<name>Кальмар</name>
+<description>Шашлычок из кальмара</description>
+<price>135</price>
+<picture>https://static6.tanuki.ru/product/1/dkgJcd87wZNm2XZbP71X8q9-SnQhzEzU.jpg</picture>
+</product>
+<product id="1740"><category_id>36</category_id>
+<name>Сан Бенедетто (без газа)</name>
+<description>Минеральная вода. 500 мл.</description>
+<price>260</price>
+<picture>https://static6.tanuki.ru/product/1/t12icpJCJAoaclsRuNzF7RpJhspP1Ik8.jpg</picture>
+</product>
+<product id="1741"><category_id>36</category_id>
+<name>Сан Бенедетто (с газом)</name>
+<description>Минеральная вода. 500 мл.</description>
+<price>260</price>
+<picture>https://static6.tanuki.ru/product/1/WLXR70nQWSZkWHEsLRuFtsfMyulddpiZ.jpg</picture>
+</product>
+<product id="1742"><category_id>33</category_id>
+<name>Блю скай</name>
+<description>Арбузный сироп, киви, апельсин, сироп Blue Curacao, сливки, лимонный сок. 500 мл.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/A2zCwx8FTK4M9MeEtDHonmb5n8M0GUEW.jpg</picture>
+</product>
+<product id="1743"><category_id>33</category_id>
+<name>Вишня-персик</name>
+<description>Вишня, персик, банан, груша, апельсиновый сироп. 500 мл.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/nICIWTwbPBA2kZ9ERpjDByzy0xfiYqff.jpg</picture>
+</product>
+<product id="1744"><category_id>33</category_id>
+<name>Лаванда-манго</name>
+<description>Манго, лаванда, молоко, сливки, лимонный сок, ванильный сироп. 500 мл.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/ZgS-MSSZIkCRcDy7HN8xdREma3JxyfJS.jpg</picture>
+</product>
+<product id="1747"><category_id>35</category_id>
+<name>Вишня-клубника</name>
+<description>Лайм, мандарин, грейпфрут, вишня, клубничный сироп, лавандовый сироп, содовая, лимонный сок. 1000 мл.</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/UhIRhZ7sV2A5omwaL86YrL8qIPh58LJ0.jpg</picture>
+</product>
+<product id="1748"><category_id>35</category_id>
+<name>Вишня-каламанси</name>
+<description>Каламанси, вишня, гренадин, содовая, лимонный сок. 1000 мл.</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/kJT8VE2SjjHmZbk1D3eAq5grqhwutCV3.jpg</picture>
+</product>
+<product id="1749"><category_id>35</category_id>
+<name>Каламанси</name>
+<description>Каламанси, арбузный сироп, имбирь, лимонный сок, содовая. 1000 мл.</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/N_MbJGZyu-Z17SmWsYs__Brxd6M_3Lu1.jpg</picture>
+</product>
+<product id="1750"><category_id>35</category_id>
+<name>Японская Груша (без сахара)</name>
+<description>Груша, лайм, стевия, лимонник, содовая. 1000 мл.</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/LrvNjeIezbXGhEHycA1Xq3iyloh_Eni8.jpg</picture>
+</product>
+<product id="1751"><category_id>35</category_id>
+<name>Гавайский Бриз (без сахара)</name>
+<description>Манго, маракуйя, стевия, лимонный сок. 1000 мл.</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/zPAk8CUzuZRhf3UauJCLKjFTmsXxY_1Z.jpg</picture>
+</product>
+<product id="1773"><category_id>31</category_id>
+<name>Томленая свинина</name>
+<description>Свинина, рис, соево-медовый соус, кинза, кунжут.</description>
+<price>415</price>
+<picture>https://static6.tanuki.ru/product/1/rmB83f_H5f30136OA_Bmar2S0w2Gm-sW.jpg</picture>
+</product>
+<product id="1774"><category_id>14</category_id>
+<name>Говядина со спаржей</name>
+<description>Говядина, спаржа, руккола, авокадо, томаты черри, соус «Кальби», кинза, кунжут.</description>
+<price>455</price>
+<picture>https://static6.tanuki.ru/product/1/-PQDlYRBoiz0-jbYfnPVN8iYjNwN-sse.jpg</picture>
+</product>
+<product id="1790"><category_id>149</category_id>
+<name>Ланч с креветками и курицей</name>
+<description>Окинава ролл, салат сендай, лапша с курицей, булочка с кунжутом. На эту позицию меню не действуют скидки</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/bVKYl0tBAxnoSjkuUM6VQi98kW4JvBqW.jpg</picture>
+</product>
+<product id="1791"><category_id>149</category_id>
+<name>Ланч с лососем и курицей</name>
+<description>Ролл с лососем, чикен спайси, овощной салат,  булочка с кунжутом. На эту позицию меню не действуют скидки</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/mpicq6WqPBmSnyqBeMJzUcf6GV5_p3rF.jpg</picture>
+</product>
+<product id="1792"><category_id>159</category_id>
+<name>Медицинские маски 50 шт.</name>
+<description>Упаковка защитных одноразовых масок, 50 шт.</description>
+<price>1250</price>
+<picture>https://static6.tanuki.ru/product/1/G3o8oe0EweqHr01yQqTcfTT9H2dzywpz.jpg</picture>
+</product>
+<product id="1793"><category_id>159</category_id>
+<name>Антисептические салфетки «Септолит»</name>
+<description>Набор антисептических салфеток в индивидуальной упаковке, 50 шт.</description>
+<price>1580</price>
+<picture>https://static6.tanuki.ru/product/1/lXEikGq6Vo5HbyUdLrZTeoa1Lk05FfyN.jpg</picture>
+</product>
+<product id="1794"><category_id>159</category_id>
+<name>Антисептик для рук Dolphin</name>
+<description>Универсальный антисептик для рук и несмываемое дезинфицирующее средство для любых поверхностей, 1л.</description>
+<price>1950</price>
+<picture>https://static6.tanuki.ru/product/1/vbzejb5Cr0PxeRHa1x7nxYkTf4LxNTDu.jpg</picture>
+</product>
+<product id="1795"><category_id>159</category_id>
+<name>Антисептический гель Sanvir</name>
+<description>Антисептический гель для дезинфекции рук, 60 мл.</description>
+<price>190</price>
+<picture>https://static6.tanuki.ru/product/1/XXtUw1bNV1PN9y4_tvtwMbcbcrUrWCsW.jpg</picture>
+</product>
+<product id="1796"><category_id>159</category_id>
+<name>Виниловые перчатки Optiline L</name>
+<description>Гипоаллергенные одноразовые виниловые перчатки (неопудренные), размер L</description>
+<price>980</price>
+<picture>https://static6.tanuki.ru/product/1/dSQVN86oixRaiOykyoL_HR5BEzBpkf7B.jpg</picture>
+</product>
+<product id="1797"><category_id>159</category_id>
+<name>Виниловые перчатки Optiline M</name>
+<description>Гипоаллергенные одноразовые виниловые перчатки (неопудренные), размер M</description>
+<price>980</price>
+<picture>https://static6.tanuki.ru/product/1/KeXNydu6eXbCd1VFWa0O-bB92HCM-AOt.jpg</picture>
+</product>
+<product id="1798"><category_id>159</category_id>
+<name>Виниловые перчатки Optiline Xl</name>
+<description>Гипоаллергенные одноразовые виниловые перчатки (неопудренные), размер XL</description>
+<price>980</price>
+<picture>https://static6.tanuki.ru/product/1/jSFIknUBZJuJfH0EAOCfnF4D1j_0IUqY.png</picture>
+</product>
+<product id="1804"><category_id>113</category_id>
+<name>Моджи Bubbies "Печенье-микс"</name>
+<description>Четыре вкуса мороженого в тесте с печеньем: «Сахарное печенье», «Шоколадная крошка», «Брауни с мороженым» и «Именинный пирог», 4 шт.</description>
+<price>840</price>
+<picture>https://static6.tanuki.ru/product/1/JAUkED2IUjwJ_6yra0N8_I6uoKrMfpRS.jpg</picture>
+</product>
+<product id="1805"><category_id>113</category_id>
+<name>Моджи Bubbies "Печенье-микс"</name>
+<description>Два вкуса мороженого в тесте с печеньем: «Брауни с мороженым» и «Именинный пирог», 2 шт.</description>
+<price>440</price>
+<picture>https://static6.tanuki.ru/product/1/0sFGBz3keQJdqCFV5qvgOsX82unei93g.jpg</picture>
+</product>
+<product id="1806"><category_id>113</category_id>
+<name>Моджи Bubbies "Печенье-микс"</name>
+<description>Два вкуса мороженого в тесте с печеньем: «Сахарное печенье» и «Шоколадная крошка», 2 шт.</description>
+<price>440</price>
+<picture>https://static6.tanuki.ru/product/1/Q-r5Exjk3gIDVk8tlI4ZCn6JzNg9BQt_.jpg</picture>
+</product>
+<product id="1811"><category_id>113</category_id>
+<name>Моджи Bubbies "Веган-ассорти"</name>
+<description>Ассорти веганского мороженого: вкусы клубники и шоколада, 4 шт.</description>
+<price>885</price>
+<picture>https://static6.tanuki.ru/product/1/XUiGf_wvESHLhUNYd93dRIbpAlXdihbx.jpg</picture>
+</product>
+<product id="1844"><category_id>113</category_id>
+<name>Моджи Bubbies "Брауни" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом брауни, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/HgulxoNyn0q8qbLBaPp0IEUdwUc92BVZ.jpg</picture>
+</product>
+<product id="1845"><category_id>113</category_id>
+<name>Моджи Bubbies "Именинный пирог" 2 шт</name>
+<description>Моджи Bubbies Именинный пирог 2 шт</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/4lnjBL84ilGIA5UJ2PJh-jMdGKzvU_rL.jpg</picture>
+</product>
+<product id="1846"><category_id>113</category_id>
+<name>Моджи Bubbies "Пломбир и шоколадная крошка" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом пломбира и шоколадной крошки, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/iHtvpLOWbT0i_YRO5QX4lhnfBURiWDMb.jpg</picture>
+</product>
+<product id="1847"><category_id>113</category_id>
+<name>Моджи Bubbies "Сахарное печенье"  2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом сахарного печенья, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/5W5BeTBXUpMEeXXrwgMTA_R8lTplipPj.jpg</picture>
+</product>
+<product id="1848"><category_id>113</category_id>
+<name>Моджи Bubbies "Красный апельсин" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом красного апельсина, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/0aU4nRvxa0rKr8A7Pc2of5a4Oj3CAyjo.jpg</picture>
+</product>
+<product id="1849"><category_id>113</category_id>
+<name>Моджи Bubbies "Личи" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом личи, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/V7fJN53YplmARHDHdugKN0I2lVgM0FjE.jpg</picture>
+</product>
+<product id="1850"><category_id>113</category_id>
+<name>Моджи Bubbies "Манго" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом манго, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/I6yltD7XL1rNViqXLPC9i1Xu82S2tw7K.jpg</picture>
+</product>
+<product id="1851"><category_id>113</category_id>
+<name>Моджи Bubbies "Маракуйя" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом маракауйи, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/NI_2S1VnI6ATGWpnTPQaocqK9xvc8y4A.jpg</picture>
+</product>
+<product id="1852"><category_id>113</category_id>
+<name>Моджи Bubbies "Нежная ваниль" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом нежной ванили 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/eu65k4fYnL9g4gGYeYLPHWHQnOwHu_7f.jpg</picture>
+</product>
+<product id="1853"><category_id>113</category_id>
+<name>Моджи Bubbies "Зеленый чай" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом зеленого чая, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/xukQz5aMqMbALVO5h-_Lgt8teKbeSLl2.jpg</picture>
+</product>
+<product id="1854"><category_id>113</category_id>
+<name>Моджи Bubbies "Клубника" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом клубники, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/qLvfb8rQC9enV3adfMm5Ao3mMpm37YO2.jpg</picture>
+</product>
+<product id="1855"><category_id>113</category_id>
+<name>Моджи Bubbies "Три шоколада" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом трех шоколадов, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/fCJxDkMSgpcszgJRSSE4RkHCiF-NZft0.jpg</picture>
+</product>
+<product id="1856"><category_id>113</category_id>
+<name>Моджи Bubbies "Фисташка" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом шоколада и эспрессо, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/K2tnNpkhhKS9L2fbz0Ck-hqGki7N5ef7.jpg</picture>
+</product>
+<product id="1857"><category_id>113</category_id>
+<name>Моджи Bubbies "Шоколад-эспрессо" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом шоколада и эспрессо, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/df-nd491P3GQBZ8fNKF8RyWGm-9p0End.jpg</picture>
+</product>
+<product id="1858"><category_id>113</category_id>
+<name>Моджи Mymo веганское "Ваниль" 2 шт</name>
+<description>Веганское мороженое в рисовом тесте со вкусом ванили, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/UjbqhertXVhXCrEG0FAYq6nUsWGZnDtI.jpg</picture>
+</product>
+<product id="1859"><category_id>113</category_id>
+<name>Моджи Mymo веганское "Клубника" 2 шт</name>
+<description>Веганское мороженое в рисовом тесте со вкусом клубники, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/h8Yq_y87ZKB04_gKe0pZYqn3YlKTQwfC.jpg</picture>
+</product>
+<product id="1860"><category_id>113</category_id>
+<name>Моджи Mymo веганское Шоколад 2 шт</name>
+<description>Веганское мороженое в рисовом тесте со вкусом шоколада, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/rM5AjlwmFXyf3y0NOudmp9xMq7iwWC8G.jpg</picture>
+</product>
+<product id="1861"><category_id>113</category_id>
+<name>Моджи Mymo "Зеленый чай" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом зеленого чая, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/qCk62M6UcRcjbbOWP7_WPPAjgfz3vzZN.jpg</picture>
+</product>
+<product id="1862"><category_id>113</category_id>
+<name>Моджи Mymo "Печенье и сливки" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом печенья и сливок, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/pBseaA3oJl4L-r5qQfKzAIC3PLwd1p0g.jpg</picture>
+</product>
+<product id="1863"><category_id>113</category_id>
+<name>Моджи Mymo "Ваниль" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом ванили, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/apWqKuGRSv1HzFFSDUG2qkMQg9kKULnm.jpg</picture>
+</product>
+<product id="1864"><category_id>113</category_id>
+<name>Моджи Mymo Два шоколада 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом двух шоколадов, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/gINT7vetIrmKmEKZvwecbYsdRJavjuea.jpg</picture>
+</product>
+<product id="1865"><category_id>113</category_id>
+<name>Моджи Mymo "Мята-шоколадная стружка" 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом мяты и шоколадной стружки, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/2LMedQQBqVnLsKN96FdPzEo_AkTPmshw.jpg</picture>
+</product>
+<product id="1866"><category_id>113</category_id>
+<name>Моджи Mymo Сладкое манго 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом сладкого манго, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/9b4ZI1ztQ4QFla_NCO34TxYW_1bfwHiD.jpg</picture>
+</product>
+<product id="1867"><category_id>113</category_id>
+<name>Моджи Mymo Спелая клубника 2 шт</name>
+<description>Мороженое в рисовом тесте со вкусом спелой клубники, 2 шт.</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/CGIHBRhZCwntcqz_qlqbvPjia8d-jGA6.jpg</picture>
+</product>
+<product id="1874"><category_id>31</category_id>
+<name>Биф Пеппер</name>
+<description>Говядина, шпинат, зеленое масло, соус из печеного перца</description>
+<price>695</price>
+<picture>https://static6.tanuki.ru/product/1/HErLHaYX3Xy2HVLleLq2WHcIyiB8uBuI.jpg</picture>
+</product>
+<product id="1875"><category_id>21</category_id>
+<name>Вишневый супрем</name>
+<description>Шоколадный бисквит, вишня, сливочный крем с юдзу</description>
+<price>325</price>
+<picture>https://static6.tanuki.ru/product/1/nGyvf0et3MCuVPV4P-l8TOFaaoNeQC9q.jpg</picture>
+</product>
+<product id="1876"><category_id>21</category_id>
+<name>Голден юдзу</name>
+<description>Мусс юдзу-мандарин, малиновый мармелад, шоколадный велюр</description>
+<price>355</price>
+<picture>https://static6.tanuki.ru/product/1/RJSe73OSJ-fAd4NCY31um1cbRW28TdGO.jpg</picture>
+</product>
+<product id="1877"><category_id>75</category_id>
+<name>Курица с имбирем</name>
+<description>Курица, имбирь (4 шт.)  + соус «Шогояки» и соус «Кохаку»</description>
+<price>295</price>
+<picture>https://static6.tanuki.ru/product/1/5iFF9WzHgMvpeS7HBdoEGapJHm5HOhHp.jpg</picture>
+</product>
+<product id="1878"><category_id>26</category_id>
+<name>Имбирный сашими</name>
+<description>Лосось, зеленое масло, имбирный соус, зелень, кунжут</description>
+<price>475</price>
+<picture>https://static6.tanuki.ru/product/1/qVlrpAlwjNsdx8AyYK9R415KNXRGQZXF.jpg</picture>
+</product>
+<product id="1879"><category_id>27</category_id>
+<name>Кадзоку</name>
+<description>Шампиньоны, панировка, сливочно-луковый соус, зелень, кинза, кунжут</description>
+<price>285</price>
+<picture>https://static6.tanuki.ru/product/1/QvQLn2L_IGK63onb54QOBXHUbUnXMhH5.jpg</picture>
+</product>
+<product id="1880"><category_id>14</category_id>
+<name>Касай</name>
+<description>Грейпфрут, руккола, огурцы, перец, яблоки, кинза</description>
+<price>325</price>
+<picture>https://static6.tanuki.ru/product/1/h_vjc6aELJ0JIJjYT6Ir7wiZeJn1SjEW.jpg</picture>
+</product>
+<product id="1881"><category_id>29</category_id>
+<name>Лапша с креветками карри</name>
+<description>Креветки, овощи, соус карри, яичная лапша, кинза, кунжут</description>
+<price>445</price>
+<picture>https://static6.tanuki.ru/product/1/6ONwdCBscUkvz14VBughqqN8hgN-9WaE.jpg</picture>
+</product>
+<product id="1882"><category_id>30</category_id>
+<name>Лосось тамаго</name>
+<description>Лосось, омлет, рис, огурец, микс соусов, зелень, кунжут</description>
+<price>625</price>
+<picture>https://static6.tanuki.ru/product/1/JfFIhoJkl5Ck6iWzmNi_qEGtgQuhsKVT.jpg</picture>
+</product>
+<product id="1884"><category_id>97</category_id>
+<name>Мацуо</name>
+<description>Угорь, авокадо, сыр, микс соусов, тобико</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/LQzG2zIfLpu5fkbpwJsprISc_dC97P8E.jpg</picture>
+</product>
+<product id="1885"><category_id>17</category_id>
+<name>Рамен эби</name>
+<description>Креветки, яичная лапша, шпинат, яйцо, кинза</description>
+<price>425</price>
+<picture>https://static6.tanuki.ru/product/1/jCTojjQgE3uGAv2eRjFr7NVRfP_AdcvV.jpg</picture>
+</product>
+<product id="1886"><category_id>10</category_id>
+<name>Ролл с опаленным лососем</name>
+<description>Угорь копченый, лосось опаленный, авокадо, латук, тобико, соусы спайс и унаги, кунжут</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/VU_yHKnhtQVPNWdPvdsqj9uJLD0ISYAs.jpg</picture>
+</product>
+<product id="1887"><category_id>11</category_id>
+<name>Свит Юдзу</name>
+<description>Тунец, лосось, авокадо, тобико, микс соусов, зелень</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/2npu1rLXYOoWAe0YZeB3pRUPBVjIwpK0.jpg</picture>
+</product>
+<product id="1888"><category_id>30</category_id>
+<name>Сибас со шпинатом</name>
+<description>Сибас, шпинат, сок лайма, зеленое масло, соус «Сливочный терияки», кунжут</description>
+<price>615</price>
+<picture>https://static6.tanuki.ru/product/1/odFAUDfXx0C8YkUFtUu8aJa_1VmRL_cr.jpg</picture>
+</product>
+<product id="1889"><category_id>10</category_id>
+<name>Такеши</name>
+<description>Лосось, гребешок, авокадо, омлет, сыр, тобико, соусы унаги и «Свит юдзу», зелень, кунжут</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/7gFVuoynHzazQyOQgE5B_cj6Y7JiQ4as.jpg</picture>
+</product>
+<product id="1890"><category_id>26</category_id>
+<name>Татаки  желтохвост</name>
+<description>Желтохвост, томаты, зеленое масло, соус «Понзу Юдзу», зелень, кунжут</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/YLed36MAwIJmqbzx66a_LNG_B69zoJxW.jpg</picture>
+</product>
+<product id="1891"><category_id>26</category_id>
+<name>Татаки лосось</name>
+<description>Лосось, томаты, зеленое масло, тропический дрессинг, зелень, кунжут</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/F5JBHajiTh4rf_YyXfy7o-3VsjcAdHKI.jpg</picture>
+</product>
+<product id="1892"><category_id>2</category_id>
+<name>Темаки с крабом</name>
+<description>Краб, авокадо, тобико, соус «Спайси юдзу»</description>
+<price>240</price>
+<picture>https://static6.tanuki.ru/product/1/Qh7sVbAIhw5WT5h2k49f78AgtLmcXcFl.jpg</picture>
+</product>
+<product id="1893"><category_id>27</category_id>
+<name>Тори кусияки с васаби-йогуртом</name>
+<description>Курица, маринованные огурцы, йогурт васаби, соус «Имбирный терияки», зелень, кунжут</description>
+<price>355</price>
+<picture>https://static6.tanuki.ru/product/1/0pYh1nNdN9yeyCSB5v1XU62Eea1KpZkB.jpg</picture>
+</product>
+<product id="1894"><category_id>14</category_id>
+<name>Утка хойсин</name>
+<description>Утка, грейпфрут, руккола, огурцы, перец, яблоки, соус «Хойсин», кинза</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/17u-oTExLEfrrvrrAHGYe1UJCFZXhDpY.jpg</picture>
+</product>
+<product id="1895"><category_id>14</category_id>
+<name>Шинкаи</name>
+<description>Креветки, авокадо, зеленое масло, соусы томатный с юдзу и «Спайси манго», сельдерей</description>
+<price>445</price>
+<picture>https://static6.tanuki.ru/product/1/SaWnTFRGM1xhqxRC6mu27NyxqP7vP0l5.jpg</picture>
+</product>
+<product id="1896"><category_id>14</category_id>
+<name>Эби грин</name>
+<description>Креветки, мини-кукуруза, шпинат, трюфельный дрессинг, соус «Вафу-лемонграсс», кинза</description>
+<price>495</price>
+<picture>https://static6.tanuki.ru/product/1/iwNQQXgmvSsPSZbG0wRDj4vAt1Uctncc.jpg</picture>
+</product>
+<product id="1897"><category_id>27</category_id>
+<name>Эби Катаифи</name>
+<description>Креветки, тесто катаифи, зеленое масло, соус «Васаби», миндаль, кунжут</description>
+<price>425</price>
+<picture>https://static6.tanuki.ru/product/1/sIyd1OJXuLj1OtGnoq0-KZCqMew9gTvR.jpg</picture>
+</product>
+<product id="1898"><category_id>35</category_id>
+<name>Малина Вишня</name>
+<description>Малина, вишня, ежевика, грейпфрут, апельсин, розмарин, специи. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/NGl7St09InK0VrcfVvi67DjDJ-mVUxjU.jpg</picture>
+</product>
+<product id="1899"><category_id>35</category_id>
+<name>Манго Нектарин</name>
+<description>Манго, нектарин, грейпфрут, лимон, дыня, каламанси, специи. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/SqcqjKIA88PUTH-MIt0NWuyPNs-uqZDx.jpg</picture>
+</product>
+<product id="1900"><category_id>35</category_id>
+<name>Морошка</name>
+<description>Морошка, фруктовый пунш, специи. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/3pGslsYF6F9zPUiyn9bL1TMlJjYd43Zl.jpg</picture>
+</product>
+<product id="1901"><category_id>35</category_id>
+<name>Нектарин Маракуйя</name>
+<description>Нектарин, маракуйя, персик, каламанси, груша, специи. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/5wgIawaBrX2QkpvzsalnTOwlH9ZMcGxT.jpg</picture>
+</product>
+<product id="1905"><category_id>33</category_id>
+<name>Каламанси-Ананас</name>
+<description>Ананас, каламанси, огурец, сельдерей</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/4aMAYPcpVMfASOp3YC-1zGlgpm5jNy0k.jpg</picture>
+</product>
+<product id="1906"><category_id>33</category_id>
+<name>Дыня-Нектарин</name>
+<description>Нектарин, дыня, апельсиновый сок, лимонный сок</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/zhi_0aKPYfsqVdJ2UjLwSLfmGyWr2kpb.jpg</picture>
+</product>
+<product id="1907"><category_id>33</category_id>
+<name>Клюква-Банан</name>
+<description>Клюква, банан, мед, персиковый сок</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/8UeAUA8KDaFSVEYI6kXcPiwcZ8y-e0Ut.jpg</picture>
+</product>
+<product id="1908"><category_id>2</category_id>
+<name>Черника-Банан</name>
+<description>Черника, банан, мед, персиковый сок</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/fzgHNDXbLv9ed9PRcD3ONXQ_svFuXKRu.jpg</picture>
+</product>
+<product id="1912"><category_id>35</category_id>
+<name>Бора-Бора</name>
+<description>Облепиха, грейпфрут, манго, маракуйя, мята, корица. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/IeBQnF31TAqGz8cXCyW5VwTd_tNgfv31.jpg</picture>
+</product>
+<product id="1913"><category_id>35</category_id>
+<name>Бора-Бора Стевия</name>
+<description>Облепиха, грейпфрут, манго, маракуйя, стевия, мята, корица. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/HvjHGvjsM4wq9ILXtgz5pkX-clzstt7h.jpg</picture>
+</product>
+<product id="1914"><category_id>35</category_id>
+<name>Восемь островов Стевия</name>
+<description>Мандарин, лайм, маракуйя, стевия, тархун, мята, специи. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/cQCKP41O5zPAuf9x7K0ZDuE7LIeuCjD9.jpg</picture>
+</product>
+<product id="1915"><category_id>33</category_id>
+<name>Облепиха-имбирь</name>
+<description>Облепиха, имбирь, лайм, ваниль, мята, корица, анис, мед. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/2tejXB9Z7p0PbTkO0gJcBXOeE97ph2kq.jpg</picture>
+</product>
+<product id="1916"><category_id>35</category_id>
+<name>Малина-манго</name>
+<description>Пюре малины, пюре манго, тимьян, мята, лимон, чай эрл грей, специи. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/xyJNPf4HDL30-yQjYC0N5imuPBxYk0V1.jpg</picture>
+</product>
+<product id="1917"><category_id>35</category_id>
+<name>Медово-имбирный</name>
+<description>Сенча, имбирь, мята, лимон, мед. Горячую воду вам необходимо добавить самостоятельно.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/QtDIvCpMy1eiQaS4WDXvwUxCC0u8zPJz.jpg</picture>
+</product>
+<product id="1902"><category_id>6</category_id>
+<name>Темаки с тунцом</name>
+<description>Тунец, соус «Свит юдзу», зелень</description>
+<price>240</price>
+<picture>https://static6.tanuki.ru/product/1/YMRd2kK6tqCLJgcsScTBhCtTMwXx6KXP.jpg</picture>
+</product>
+<product id="1903"><category_id>6</category_id>
+<name>Темаки с гребешком</name>
+<description>Гребешок, соус «Свит юдзу», зелень</description>
+<price>240</price>
+<picture>https://static6.tanuki.ru/product/1/z68Q01KBR1IJg0Zc7-7hNZfn10OyHan_.jpg</picture>
+</product>
+<product id="1904"><category_id>6</category_id>
+<name>Темаки с лососем-юдзу</name>
+<description>Лосось, соус «Свит юдзу», зелень</description>
+<price>240</price>
+<picture>https://static6.tanuki.ru/product/1/Wc91I4YuvAwpOOcE6-sd4YBfiy52doEb.jpg</picture>
+</product>
+<product id="1920"><category_id>105</category_id>
+<name>Новогодний сет</name>
+<description>Мексиканский ролл - 1 (6 шт.)  
+Калифорния - 1 (6 шт.) 
+Филадельфия - 1 (6 шт.)  
+Ролл Прайм - 1 (6 шт.) 
+Сэнсей ролл - 1 (6 шт.) 
+Марбл манго - 1 (6 шт.) 
+Даку ролл - 1 (8 шт.) 
+Новогодний ролл - 1 (6 шт.)</description>
+<price>3585</price>
+<picture>https://static6.tanuki.ru/product/1/MYBt_6pJn2dP7aR2l92EEUU4xU8LC4lE.jpg</picture>
+</product>
+<product id="1919"><category_id>10</category_id>
+<name>Новогодний ролл</name>
+<description>Лосось, трюфельный сыр, красная икра, чёрная икра палтуса, укроп</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/YzE7mLqKhfgWZEhYO-vccaKsWGwvk6n3.jpg</picture>
+</product>
+<product id="1057"><category_id>105</category_id>
+<name>Вегетарианский сет</name>
+<description>18 роллов, 8 суши. 
+Ролл с огурцом - 1 (6 шт.) 
+Ролл с авокадо - 1 (6 шт.) 
+Гункан Чука - 5 шт. 
+Суши Авокадо - 3 шт. 
+Киноа ролл - 1 (6 шт.)</description>
+<price>1135</price>
+<picture>https://www.tanuki.ru//common/upload/VegySet_1164x1164-min[1].jpg</picture>
+</product>
+<product id="1219"><category_id>105</category_id>
+<name>Сумико сет</name>
+<description>22 ролла
+Чеддер - 1 (6 шт.)
+Окинава - 1 (4 шт.) 
+Филадельфия - 1 (6 шт.) 
+Калифорния - 1 (6 шт.)</description>
+<price>1575</price>
+<picture>https://static4.tanuki.ru/product/1/L93UBTzSO94J8QCoFMcaaQrHXhq48guV.jpg</picture>
+</product>
+<product id="1440"><category_id>105</category_id>
+<name>Мураками сет</name>
+<description>24 ролла
+Тёплый лосось - 1 (6 шт.)
+Орандж краб - 1 (6 шт.)
+Чеддер - 1 (6 шт.)
+Теплый краб - 1 (6 шт.)</description>
+<price>1550</price>
+<picture>https://static6.tanuki.ru/product/1/9LItA145-RMrEQtXjkRhRWBwhgGjbYLo.jpg</picture>
+</product>
+<product id="1435"><category_id>105</category_id>
+<name>Сатоши сет</name>
+<description>30 роллов
+Калифорния — 1 (6 шт.), 
+Сицилийский — 1 (6 шт.), 
+Сенсэй — 1 (6 шт.), 
+Мексиканский — 1 (6 шт.), 
+Чеддер — 1 (6шт.)</description>
+<price>1955</price>
+<picture>https://static6.tanuki.ru/product/1/uhYjQVEeO4D9Tn8CEskIna1da_wak49B.jpg</picture>
+</product>
+<product id="1377"><category_id>105</category_id>
+<name>Сакана сет</name>
+<description>30 роллов
+Калифорния с лососем — 1 (6 шт.), 
+Филадельфия Нисуаз — 2 (6 шт.), 
+Филадельфия — 1 (6 шт.), 
+Ролл Дракон — 1 (6 шт.)</description>
+<price>1980</price>
+<picture>https://static6.tanuki.ru/product/1/Ri2UfZurjttXJoDKS4EXOwUuUhzgkMk6.jpg</picture>
+</product>
+<product id="1392"><category_id>105</category_id>
+<name>Тануки сет</name>
+<description>42 ролла
+Филадельфия - 1 (6 шт.) 
+Калифорния - 1 (6 шт.) 
+Дракон - 1 (6 шт.) 
+Прайм - 1 (6 шт.) 
+Мексиканский - (6 шт.) 
+Чеддер - 1 (6 шт.) 
+Филадельфия нисуаз</description>
+<price>3005</price>
+<picture>https://static6.tanuki.ru/product/1/ifP90GbqFKe6-iiyiWpwrTGbk2HiTU8Q.jpg</picture>
+</product>
+<product id="1079"><category_id>99</category_id>
+<name>Ultimate De Luxe</name>
+<description>56 роллов
+Аригато - 1 (6 шт.) 
+Даку - 1 (8 шт.) 
+Курай - 1 (6 шт.) 
+Филадельфия Нисуаз - 1 (6 шт.) 
+Калифорния Ажи - 1 (6 шт.) 
+Филадельфия - 1 (6 шт.) 
+Скин - 1 (6 шт.) 
+Филадельфия Смоук - 1 (6 шт.) 
+Калифорния - 1 (6 шт.)</description>
+<price>3585</price>
+<picture>https://static6.tanuki.ru/product/1/LphrT32cPG8vFjFP9IFacl_Qihnvc8zT.jpg</picture>
+</product>
+<product id="1297"><category_id>105</category_id>
+<name>Фудзи сет</name>
+<description>48 роллов
+Ямато - 1 (6 шт.) 
+Скин - 1 (6 шт.) 
+Прайм - 1 (6 шт.) 
+Калифорния Ажи 1 (6 шт.) 
+Чеддер - 1 (6 шт.) 
+Чили Тай - 1 (6 шт.) 
+Мексиканский - 1 (6 шт.) 
+Аригато - 1 (6 шт.)</description>
+<price>3100</price>
+<picture>https://static6.tanuki.ru/product/1/oc_ypVy7k7SM7-RVCN86R7dEAeFfe7Ph.jpg</picture>
+</product>
+<product id="1004"><category_id>99</category_id>
+<name>Diamond De Luxe</name>
+<description>42 ролла, 5 суши
+Дракон - 1 ( 6шт.) 
+Филадельфия - 1 (6 шт.) 
+Филадельфия нисуаз - 1 (6 шт.) 
+Ямато - 1 (6 шт.) 
+Мексиканский - 1 (6 шт.) 
+Ролл с тунцом - 1 (6 шт.) 
+Калифорния с лососем - 1 (6 шт.)
+Суши Креветка - 2 шт. 
+Суши Угорь - 3 шт.</description>
+<price>3395</price>
+<picture>https://static6.tanuki.ru/product/1/yHs_ipVLU0rE_RPwWNeK1h0AElx2Q6Z9.jpg</picture>
+</product>
+<product id="1008"><category_id>99</category_id>
+<name>Party De Luxe</name>
+<description>108 роллов, 8 суши
+Суши Авокадо - 2 шт. 
+Суши Креветка - 2 шт. 
+Суши Лосось - 2 шт. 
+Суши Угорь - 2 шт. 
+Ролл с авокадо - 2 (6 шт.) 
+Филадельфия Нисуаз - 2 (6 шт.) 
+Филадельфия - 2 (6 шт.) 
+Аригато - 2 (6 шт.) 
+Ролл с лососем - 2 (6 шт.) 
+Ролл с огурцом - 1 (6 шт.) 
+Дракон - 1 ( 6шт.) 
+Калифорния с лососем - 1 (6 шт.) 
+Скин - 1 (6 шт.) 
+Ролл Марбл - 1 (6шт.) 
+Ролл с тунцом - 1 (6 шт.) 
+Сэнсэй - 1 (6 шт.) 
+Мексиканский - 1 (6 шт.)</description>
+<price>6695</price>
+<picture>https://static6.tanuki.ru/product/1/kBoYbhWKLoPpCC1EB5991LSHaUnWXXJ9.jpg</picture>
+</product>
+<product id="1367"><category_id>6</category_id>
+<name>Лосось</name>
+<description></description>
+<price>95</price>
+<picture>https://static6.tanuki.ru/product/1/CnLqloffl4IFXAKoGKMnQHwLb-y5nJ3f.jpg</picture>
+</product>
+<product id="1378"><category_id>6</category_id>
+<name>Лосось опаленный</name>
+<description></description>
+<price>95</price>
+<picture>https://static6.tanuki.ru/product/1/t1Z-gtreX7RPJxDraY09VsrLJzHnKMBS.jpg</picture>
+</product>
+<product id="1368"><category_id>6</category_id>
+<name>Лосось копченый</name>
+<description></description>
+<price>95</price>
+<picture>https://static6.tanuki.ru/product/1/vs_XClDiezW0YtAG6NO_bv4ldLdQfuWz.jpg</picture>
+</product>
+<product id="1374"><category_id>6</category_id>
+<name>Креветка</name>
+<description></description>
+<price>95</price>
+<picture>https://static6.tanuki.ru/product/1/H9KESafRCXspEBF3N9bRRn4UEnrLQwKA.jpg</picture>
+</product>
+<product id="1358"><category_id>6</category_id>
+<name>Тунец</name>
+<description></description>
+<price>110</price>
+<picture>https://static6.tanuki.ru/product/1/m0o6XGORSZBJmj8MP1aTGEp7w7eShSsd.jpg</picture>
+</product>
+<product id="1370"><category_id>6</category_id>
+<name>Угорь</name>
+<description></description>
+<price>120</price>
+<picture>https://static6.tanuki.ru/product/1/em4M6BVLTaNCl2uwN0PD-EX44o0Ct89e.jpg</picture>
+</product>
+<product id="1371"><category_id>6</category_id>
+<name>Желтохвост</name>
+<description></description>
+<price>120</price>
+<picture>https://static6.tanuki.ru/product/1/LgExVhHbtjFhbRqIehR1JASstzGgSNYE.jpg</picture>
+</product>
+<product id="1354"><category_id>6</category_id>
+<name>Авокадо</name>
+<description></description>
+<price>80</price>
+<picture>https://static6.tanuki.ru/product/1/sPgU_-Etx9DpckWk0sE-l2468v1IiG4k.jpg</picture>
+</product>
+<product id="1356"><category_id>7</category_id>
+<name>Икра красная</name>
+<description></description>
+<price>160</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-Ikura_1164x1164.jpg</picture>
+</product>
+<product id="1369"><category_id>7</category_id>
+<name>Икра летучей рыбы</name>
+<description></description>
+<price>110</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-Tobilo_1164x1164.jpg</picture>
+</product>
+<product id="1362"><category_id>7</category_id>
+<name>Лосось спайс</name>
+<description></description>
+<price>110</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-SpicySyake_1164x1164.jpg</picture>
+</product>
+<product id="1366"><category_id>7</category_id>
+<name>Креветка спайс</name>
+<description></description>
+<price>95</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-SpicyEbi_1164x1164.jpg</picture>
+</product>
+<product id="1357"><category_id>7</category_id>
+<name>Краб</name>
+<description></description>
+<price>150</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-Kani_1164x1164[1].jpg</picture>
+</product>
+<product id="1359"><category_id>7</category_id>
+<name>Краб спайс</name>
+<description></description>
+<price>135</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-SpicyKani_1164x1164[1][1].jpg</picture>
+</product>
+<product id="1108"><category_id>7</category_id>
+<name>Краб тобико спайс</name>
+<description></description>
+<price>110</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-KaruiKani_1164x1164[1][1].jpg</picture>
+</product>
+<product id="1360"><category_id>7</category_id>
+<name>Тунец спайс</name>
+<description></description>
+<price>110</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-SpicyMaguro_1164x1164[1][1].jpg</picture>
+</product>
+<product id="1363"><category_id>7</category_id>
+<name>Угорь спайс</name>
+<description></description>
+<price>120</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-SpicyUnagi_1164x1164[1][1].jpg</picture>
+</product>
+<product id="1364"><category_id>7</category_id>
+<name>Желтохвост спайс</name>
+<description></description>
+<price>120</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-SpicyHamachi_1164x1164[1][1].jpg</picture>
+</product>
+<product id="1365"><category_id>7</category_id>
+<name>Гребешок спайс</name>
+<description></description>
+<price>110</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-SpicyHotate_1164x1164[1][1].jpg</picture>
+</product>
+<product id="1436"><category_id>7</category_id>
+<name>Чука</name>
+<description></description>
+<price>80</price>
+<picture>https://www.tanuki.ru//common/upload/Gunkan-Hiyashi_1164x1164[3].jpg</picture>
+</product>
+<product id="1308"><category_id>15</category_id>
+<name>Лосось</name>
+<description></description>
+<price>365</price>
+<picture>https://static6.tanuki.ru/product/1/xJB0Hn8GzyNVHEZwfH7OtOOEaBd10BUq.jpg</picture>
+</product>
+<product id="1307"><category_id>15</category_id>
+<name>Тунец</name>
+<description></description>
+<price>385</price>
+<picture>https://www.tanuki.ru//common/upload/maguro_1164[1].jpg</picture>
+</product>
+<product id="1309"><category_id>15</category_id>
+<name>Угорь</name>
+<description></description>
+<price>395</price>
+<picture>https://www.tanuki.ru//common/upload/unagi_1164[2][1].jpg</picture>
+</product>
+<product id="1310"><category_id>15</category_id>
+<name>Желтохвост</name>
+<description></description>
+<price>415</price>
+<picture>https://www.tanuki.ru//common/upload/hamachi_1164.jpg</picture>
+</product>
+<product id="1306"><category_id>15</category_id>
+<name>Ассорти</name>
+<description>Лосось, угорь, тунец, желтохвост, креветка, кунжут</description>
+<price>1150</price>
+<picture>https://static6.tanuki.ru/product/1/0wNoGl293URMHhvtJVGBmdNNTmkoo6iV.jpg</picture>
+</product>
+<product id="1427"><category_id>10</category_id>
+<name>Филадельфия</name>
+<description>Лосось, огурец, авокадо, кунжут, сыр, зеленый лук, 6 шт.</description>
+<price>475</price>
+<picture>https://www.tanuki.ru//common/upload/Philadelphiya_1164x1164[1].jpg</picture>
+</product>
+<product id="1380"><category_id>10</category_id>
+<name>С лососем</name>
+<description>6 шт.</description>
+<price>235</price>
+<picture>https://www.tanuki.ru//common/upload/Syake_1164[1].jpg</picture>
+</product>
+<product id="1416"><category_id>10</category_id>
+<name>С тунцом</name>
+<description>6 шт.</description>
+<price>255</price>
+<picture>https://www.tanuki.ru//common/upload/Tekka_1164[1][1].jpg</picture>
+</product>
+<product id="1419"><category_id>10</category_id>
+<name>C угрём</name>
+<description>6 шт.</description>
+<price>275</price>
+<picture>https://www.tanuki.ru//common/upload/Unagi_1164[1][1].jpg</picture>
+</product>
+<product id="1009"><category_id>10</category_id>
+<name>С авокадо</name>
+<description>6 шт.</description>
+<price>110</price>
+<picture>https://www.tanuki.ru//common/upload/Abokado_1164[1][1].jpg</picture>
+</product>
+<product id="1106"><category_id>10</category_id>
+<name>С огурцом</name>
+<description>6 шт.</description>
+<price>110</price>
+<picture>https://www.tanuki.ru//common/upload/Kappa_1164[1][1].jpg</picture>
+</product>
+<product id="1382"><category_id>10</category_id>
+<name>Прайм</name>
+<description>Лосось, креветка темпура, огурец, тобико, 6 шт.</description>
+<price>475</price>
+<picture>https://static6.tanuki.ru/product/1/nya3vQshsAe59a-fSKf-FRvs4J4yCeGb.jpg</picture>
+</product>
+<product id="1485"><category_id>10</category_id>
+<name>Дракон</name>
+<description>Угорь, авокадо, сыр, тобико, кунжут, зеленый лук, 6 шт.</description>
+<price>460</price>
+<picture>https://static4.tanuki.ru/product/1/lz6R_2WieX3lQjRov-bQq5rzapjiTio1.jpg</picture>
+</product>
+<product id="1032"><category_id>10</category_id>
+<name>Аригато</name>
+<description>Креветка, руккола, авокадо, огурец, трио фирменных соусов, 6 шт.</description>
+<price>380</price>
+<picture>https://www.tanuki.ru//common/upload/Arigato_1164[3][1].jpg</picture>
+</product>
+<product id="1217"><category_id>10</category_id>
+<name>Окинава</name>
+<description>Креветка темпура, огурец, сыр, тобико, кунжут, 4 шт.</description>
+<price>275</price>
+<picture>https://www.tanuki.ru//common/upload/Okinava-roll.jpg</picture>
+</product>
+<product id="1215"><category_id>10</category_id>
+<name>Скин</name>
+<description>Жареная кожа лосося, стружка тунца, огурец, сыр, тобико, зеленый лук, кунжут, 6 шт.</description>
+<price>250</price>
+<picture>https://www.tanuki.ru//common/upload/ovara_1164.jpg</picture>
+</product>
+<product id="1158"><category_id>10</category_id>
+<name>Мексиканский</name>
+<description>Креветка темпура, огурец, тобико, 6 шт.</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/XvJNOWNcdGpjt0o1geY0mV0TcK57YDja.jpg</picture>
+</product>
+<product id="1074"><category_id>10</category_id>
+<name>Даку</name>
+<description>Угорь, креветка, авокадо, огурец, соус «Унаги», зеленый лук, 8 шт.</description>
+<price>455</price>
+<picture>https://static6.tanuki.ru/product/1/7mPBrPW5qZ3caxsmTX528a2iauuNOe02.jpg</picture>
+</product>
+<product id="1122"><category_id>10</category_id>
+<name>Курай</name>
+<description>Лосось, угорь, сыр, кунжут и острый соус, 6 шт.</description>
+<price>390</price>
+<picture>https://static6.tanuki.ru/product/1/UKFXhd-YzPUEoB6-nT4msiFErQZXWsvt.jpg</picture>
+</product>
+<product id="1451"><category_id>10</category_id>
+<name>Чили тай</name>
+<description>Креветка, лосось, тайский мед, сыр, кунжут, авокадо, 6 шт.</description>
+<price>425</price>
+<picture>https://static6.tanuki.ru/product/1/EouTmPhD92CJX3HCg6gG6TJecuuj1kxY.jpg</picture>
+</product>
+<product id="1325"><category_id>10</category_id>
+<name>Сицилийский</name>
+<description>Лосось, авокадо, креветка, сыр, острый соус «Спайси манго», 6 шт.</description>
+<price>435</price>
+<picture>https://www.tanuki.ru//common/upload/siciliski_1164x1164[1][1].jpg</picture>
+</product>
+<product id="1490"><category_id>95</category_id>
+<name>Калифорния</name>
+<description>Краб-микс, авокадо, огурец, тобико, 6 шт.</description>
+<price>465</price>
+<picture>https://www.tanuki.ru//common/upload/Kaliforniya[26].jpg</picture>
+</product>
+<product id="1376"><category_id>95</category_id>
+<name>Калифорния с лососем</name>
+<description>Лосось, авокадо, огурец, тобико, 6 шт.</description>
+<price>460</price>
+<picture>https://www.tanuki.ru//common/upload/Syake-kaliforniya[33].jpg</picture>
+</product>
+<product id="1101"><category_id>95</category_id>
+<name>Калифорния хот</name>
+<description>Краб-микс, авокадо, огурец, тобико, 6 шт.</description>
+<price>460</price>
+<picture>https://www.tanuki.ru//common/upload/KaliHott_1164[3].jpg</picture>
+</product>
+<product id="1492"><category_id>97</category_id>
+<name>Фурай</name>
+<description>Лосось, угорь, авокадо, сыр, лук фри, 6 шт.</description>
+<price>390</price>
+<picture>https://static4.tanuki.ru/product/1/xRZwTLyLt3C6tw7zmf23RckJuMVt83mF.jpg</picture>
+</product>
+<product id="1111"><category_id>10</category_id>
+<name>Киноа</name>
+<description>Грибы шиитаке, авокадо, баклажан, киноа, перец гриль, руккола, 6 шт.</description>
+<price>265</price>
+<picture>https://static6.tanuki.ru/product/1/G0CXSzIYAVD_vi_zA6lPgGCNhlwowSoo.jpg</picture>
+</product>
+<product id="1098"><category_id>11</category_id>
+<name>Теплый лосось</name>
+<description>Лосось жареный, сыр, базилик, 6 шт.</description>
+<price>390</price>
+<picture>https://www.tanuki.ru//common/upload/Kaguvase-roll.jpg</picture>
+</product>
+<product id="1104"><category_id>11</category_id>
+<name>Теплый краб</name>
+<description>Краб-микс, авокадо, тобико, зеленый лук, 6 шт.</description>
+<price>390</price>
+<picture>https://www.tanuki.ru//common/upload/Kani-khotto.jpg</picture>
+</product>
+<product id="1385"><category_id>11</category_id>
+<name>Чеддер</name>
+<description>Жареный лосось, авокадо, кунжут, сыр, зеленый лук, 6 шт.</description>
+<price>390</price>
+<picture>https://static4.tanuki.ru/product/1/tk0zIvOmICtTXsck9vhZ-3ZVow2d60Pj.jpg</picture>
+</product>
+<product id="1218"><category_id>11</category_id>
+<name>Орандж краб</name>
+<description>Краб-микс, авокадо, сыр, микс соусов, хрустящая маменори, 6 шт.</description>
+<price>390</price>
+<picture>https://www.tanuki.ru//common/upload/orangCrab_1164x1164[7].jpg</picture>
+</product>
+<product id="1390"><category_id>97</category_id>
+<name>Когасэ</name>
+<description>Лосось опаленный, угорь, сыр, 6 шт.</description>
+<price>450</price>
+<picture>https://www.tanuki.ru//common/upload/Kogase_1164[3].jpg</picture>
+</product>
+<product id="1483"><category_id>75</category_id>
+<name>Овощи</name>
+<description>С овощами, грибами и бамбуком (4 шт.)
+
++ соус «Шогояки» и соус «Кохаку».</description>
+<price>250</price>
+<picture>https://static6.tanuki.ru/product/1/ZKlcOpPkZS6aqiNT4sO5o3UzjD4Tinlr.jpg</picture>
+</product>
+<product id="1320"><category_id>75</category_id>
+<name>Сифудо сет</name>
+<description>Ассорти (8 шт.): краб и креветка, лосось и креветка, кальмар и креветка  + соус «Шогояки» и соус «Кохаку».</description>
+<price>685</price>
+<picture>https://static6.tanuki.ru/product/1/BMp6E3l4NzQ6jOAUuKZhBOHvu-sp23HO.jpg</picture>
+</product>
+<product id="1077"><category_id>75</category_id>
+<name>Дим-сам сет</name>
+<description>Ассорти дим-самов:  краб и креветка, курица с имбирем, кальмар и креветка, лосось и креветка, овощи, индейка + соус «Шогояки» и соус «Кохаку».</description>
+<price>595</price>
+<picture>https://static6.tanuki.ru/product/1/pXYu5PF_A81Im_U7HkBCJoRDzYVcs2bh.jpg</picture>
+</product>
+<product id="1072"><category_id>75</category_id>
+<name>Индейка</name>
+<description>С индейкой, сыром и зеленью (4 шт.)
++ соус «Шогояки» и соус «Кохаку».</description>
+<price>295</price>
+<picture>https://static6.tanuki.ru/product/1/evrQwsLbCSevIg-xfh-BCHbrMdEWJL-t.jpg</picture>
+</product>
+<product id="1090"><category_id>75</category_id>
+<name>Кальмар и креветка</name>
+<description>C кальмаром, креветкой, грибами шиитаке и шпинатом (4 шт.)
+
++ соус «Шогояки» и соус «Кохаку».</description>
+<price>350</price>
+<picture>https://static6.tanuki.ru/product/1/YslkLiiZXezGDhuzKxUxKwZ2GplfwzCv.jpg</picture>
+</product>
+<product id="1103"><category_id>75</category_id>
+<name>Краб и креветка</name>
+<description>Краб-микс, креветка, морковь (4 шт.)
+
++ соус «Шогояки» и соус «Кохаку».</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/OmlVgBoS9upBzkhGuNGClKpNevKq24HG.jpg</picture>
+</product>
+<product id="1437"><category_id>14</category_id>
+<name>Чука с ореховым соусом</name>
+<description>Чука, ореховый соус.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/Hiashi_1164[1][1].jpg</picture>
+</product>
+<product id="1443"><category_id>14</category_id>
+<name>Цезарь с курицей</name>
+<description>Курица, сыр, салат романо, салат айсберг, гренки, соус «Цезарь»</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/Ccsf6nJgEz7d225fQj2vS7kr0tBvYfZG.jpg</picture>
+</product>
+<product id="1442"><category_id>14</category_id>
+<name>Цезарь C креветками</name>
+<description>Креветки, сыр, салат романо, салат айсберг, гренки, соус «Цезарь»</description>
+<price>425</price>
+<picture>https://www.tanuki.ru//common/upload/CesarKrevetki_1164[1][1].jpg</picture>
+</product>
+<product id="1460"><category_id>14</category_id>
+<name>Сендай</name>
+<description>Креветки, листья салата, тобико, пикантный соус.</description>
+<price>325</price>
+<picture>https://www.tanuki.ru//common/upload/EbiUmiSarada_1164[4].jpg</picture>
+</product>
+<product id="1073"><category_id>14</category_id>
+<name>Дайкани</name>
+<description>Краб-микс, апельсин, тобико, перец чили.</description>
+<price>390</price>
+<picture>https://www.tanuki.ru//common/upload/Daikani_1164[1][1].jpg</picture>
+</product>
+<product id="1212"><category_id>14</category_id>
+<name>Кофу</name>
+<description>Жареные баклажаны, томаты, чеснок, кинза, соус «Свит чили».</description>
+<price>265</price>
+<picture>https://www.tanuki.ru//common/upload/NasuKiro_1164[1][1].jpg</picture>
+</product>
+<product id="1459"><category_id>14</category_id>
+<name>Кумотори</name>
+<description>Креветки, листья салата мангольд, авокадо, томаты, соусы «Унаги» и «Нисуаз».</description>
+<price>425</price>
+<picture>https://static4.tanuki.ru/product/1/Pe5yxeOJ2Yz9ncyymGm6kdWJZHaF4tml.jpg</picture>
+</product>
+<product id="1010"><category_id>27</category_id>
+<name>Спринг ролл с курицей</name>
+<description>Курица, авокадо, сыр, кинза, пикантный соус.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/AbokadoRoll_1164[1][2].jpg</picture>
+</product>
+<product id="1107"><category_id>27</category_id>
+<name>Острые куриные крылышки</name>
+<description>Острые куриные крылья, арахис, паприка.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/KaramiYoku_1164[1][2].jpg</picture>
+</product>
+<product id="1124"><category_id>27</category_id>
+<name>Курица по-пекински</name>
+<description>Жареная курица, пшеничные блинчики, огурец, морковь, кинза, острый соус «Хойсин», красный лук, 5 шт.</description>
+<price>375</price>
+<picture>https://www.tanuki.ru//common/upload/Utka_1164[1][2].jpg</picture>
+</product>
+<product id="1457"><category_id>27</category_id>
+<name>Гедза с креветками</name>
+<description>Креветки, бамбук, грибы шиитаке, шпинат, сливочный соус, 4 шт.</description>
+<price>375</price>
+<picture>https://www.tanuki.ru//common/upload/14[23].jpg</picture>
+</product>
+<product id="1035"><category_id>27</category_id>
+<name>Гедза со свининой</name>
+<description>Свинина, капуста, кунжутное масло, 5шт.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/Web-AtaGedza-1164x1164[1].jpg</picture>
+</product>
+<product id="1469"><category_id>27</category_id>
+<name>Эдамамэ салт</name>
+<description>Бобы, морская соль.</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/Adamame_1164x1164-min[2][2].jpg</picture>
+</product>
+<product id="1468"><category_id>27</category_id>
+<name>Эдамамэ чили</name>
+<description>Бобы, острый соус чили.</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/Adamame_chili_1164x1164-min[2][3].jpg</picture>
+</product>
+<product id="1452"><category_id>26</category_id>
+<name>Чипсы райс</name>
+<description>Фирменные рисовые чипсы с нори и соус «Чили тагараши»</description>
+<price>90</price>
+<picture>https://www.tanuki.ru//common/upload/Web-RiceChips-1164x1164[4].jpg</picture>
+</product>
+<product id="1116"><category_id>27</category_id>
+<name>Креветки темпура</name>
+<description>Креветки, овощи и фирменный соус.</description>
+<price>445</price>
+<picture>https://static4.tanuki.ru/product/1/YPCGt0f2_0g_5RGY7JBu18iF6YTI5NIs.jpg</picture>
+</product>
+<product id="1100"><category_id>26</category_id>
+<name>Калифорния спринг</name>
+<description>Краб-микс, авокадо, руккола, огурец, тобико, пикантный соус.</description>
+<price>345</price>
+<picture>https://www.tanuki.ru//common/upload/KalifRoru_1164[1][1].jpg</picture>
+</product>
+<product id="1166"><category_id>17</category_id>
+<name>Мисо суп</name>
+<description>Паста мисо, тофу, водоросли.</description>
+<price>115</price>
+<picture>https://static6.tanuki.ru/product/1/hKjrPHHh7VyCw-GJqO6JJmLKOHrUzNke.jpg</picture>
+</product>
+<product id="1071"><category_id>17</category_id>
+<name>Суп с говядиной чили</name>
+<description>Говядина, пшеничная лапша, шампиньоны, перец чили, перепелиное яйцо.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/GunikuChili_1164[1][1].jpg</picture>
+</product>
+<product id="1381"><category_id>17</category_id>
+<name>Суп с лососем</name>
+<description>Лосось, рис, водоросли, кунжут, нори.</description>
+<price>390</price>
+<picture>https://www.tanuki.ru//common/upload/SyakeTedzuki_1164[2][1].jpg</picture>
+</product>
+<product id="1105"><category_id>17</category_id>
+<name>Чикен чиз</name>
+<description>Копченая курица, сыр, бекон, томаты черри, шампиньоны.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/KanrakuSiru_1164[1][1].jpg</picture>
+</product>
+<product id="1420"><category_id>17</category_id>
+<name>Суп с угрём</name>
+<description>Угорь, стеклянная лапша, шампиньоны, яйцо.</description>
+<price>395</price>
+<picture>https://www.tanuki.ru//common/upload/UnagiSiru_1164[1][1].jpg</picture>
+</product>
+<product id="1397"><category_id>17</category_id>
+<name>Тануки-ям</name>
+<description>Креветки, мидии, кальмар, гребешок, кокосовое молоко, шампиньоны, лимонник.</description>
+<price>445</price>
+<picture>https://www.tanuki.ru//common/upload/TanukiYam_1164[1][1].jpg</picture>
+</product>
+<product id="1407"><category_id>17</category_id>
+<name>Том кха</name>
+<description>Курица, кокосовое молоко, яйцо, грибы.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/Tom_kkha[4].jpg</picture>
+</product>
+<product id="1281"><category_id>17</category_id>
+<name>Рамен с курицей</name>
+<description>Курица, яичная лапша, грибы эноки, пак-чой.</description>
+<price>395</price>
+<picture>https://www.tanuki.ru//common/upload/ramen_1164x1164[3][1].jpg</picture>
+</product>
+<product id="1110"><category_id>30</category_id>
+<name>Семга на гриле</name>
+<description>Стейк из семги, кислосладкий соус, овощи, мини-картофель.</description>
+<price>695</price>
+<picture>https://www.tanuki.ru//common/upload/KiniroSyake_11164_1.jpg</picture>
+</product>
+<product id="1424"><category_id>30</category_id>
+<name>Угорь на рисе</name>
+<description>Угорь копченый, омлет, кунжут, рис.</description>
+<price>595</price>
+<picture>https://static6.tanuki.ru/product/1/KgKib044Er3_SM0RXrJxQjeavfQ5Hz_h.jpg</picture>
+</product>
+<product id="1054"><category_id>30</category_id>
+<name>Мидии васаби</name>
+<description>Мидии, васаби, соус тобико. 6шт.</description>
+<price>485</price>
+<picture>https://static6.tanuki.ru/product/1/8UtlvKVlg4nNg3-f07rp_dpbBYlDErYK.jpg</picture>
+</product>
+<product id="1462"><category_id>30</category_id>
+<name>Креветки в хрустящем тесте</name>
+<description>Хрустящее тесто, креветки, острый соус, сыр, сливочный соус.</description>
+<price>415</price>
+<picture>https://www.tanuki.ru//common/upload/EbiChiliFuto_11164[3].jpg</picture>
+</product>
+<product id="1410"><category_id>32</category_id>
+<name>Чикен спайси</name>
+<description>Курица, кешью, перец, острый соус, рис.</description>
+<price>370</price>
+<picture>https://www.tanuki.ru//common/upload/ToriNokasu_11164[3].jpg</picture>
+</product>
+<product id="1425"><category_id>32</category_id>
+<name>Утка по-пекински</name>
+<description>Запечённая утка, маринованная в саке и пряностях, соус «Хойсин», пшеничные блинчики, 7 шт.</description>
+<price>1395</price>
+<picture>https://www.tanuki.ru//common/upload/UtkapoPekinski_11164[3].jpg</picture>
+</product>
+<product id="1044"><category_id>29</category_id>
+<name>Гречневая лапша с говядиной</name>
+<description>Говядина, овощи, гречневая лапша.</description>
+<price>370</price>
+<picture>https://www.tanuki.ru//common/upload/BifuYakisoba_11164[3].jpg</picture>
+</product>
+<product id="1414"><category_id>29</category_id>
+<name>Лапша с курицей</name>
+<description>Курица, перец, пшеничая лапша, лук.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/Udon_11164[3].jpg</picture>
+</product>
+<product id="1070"><category_id>31</category_id>
+<name>Японский мини-бургер</name>
+<description>Бургер с говядиной, беконом, сыром. Подается с картофелем фри.</description>
+<price>360</price>
+<picture>https://static6.tanuki.ru/product/1/Ghh5BV0StzNmPcjXoFUqnDSvYR_IYkAK.jpg</picture>
+</product>
+<product id="1152"><category_id>31</category_id>
+<name>Майами бургер</name>
+<description>Бургер с говядиной, авокадо, томатом, сыром, рукколой, красным луком, соусом «Тартар» и «Барбекю». Подается с картофелем фри.</description>
+<price>495</price>
+<picture>https://www.tanuki.ru//common/upload/Miami_burger_1164[3].jpg</picture>
+</product>
+<product id="1323"><category_id>28</category_id>
+<name>Тяхан с морепродуктами</name>
+<description>Гребешок, кальмар, креветки, овощи, рис, яйцо.</description>
+<price>350</price>
+<picture>https://static4.tanuki.ru/product/1/JOTqDyIQbIvo0nUdQ03pFYLBE1oCTrTB.jpg</picture>
+</product>
+<product id="1412"><category_id>28</category_id>
+<name>Тяхан с курицей</name>
+<description>Курица, овощи, кунжут, рис.</description>
+<price>290</price>
+<picture>https://static4.tanuki.ru/product/1/Rr9ngvcT9t2W11LZ_z3d48_BWNHvpPZu.jpg</picture>
+</product>
+<product id="1042"><category_id>28</category_id>
+<name>Тяхан с говядиной</name>
+<description>Говядина, чеснок, овощи, рис.</description>
+<price>295</price>
+<picture>https://static4.tanuki.ru/product/1/uZulxGU-uovx1JvT9l95zPQ12AkmyeW3.jpg</picture>
+</product>
+<product id="1388"><category_id>28</category_id>
+<name>Тяхан с беконом</name>
+<description>Бекон, чеснок, яйцо, рис.</description>
+<price>270</price>
+<picture>https://static6.tanuki.ru/product/1/xklVjm3a3K0PVYavW7UdX0AdNVUUDcZW.jpg</picture>
+</product>
+<product id="1062"><category_id>28</category_id>
+<name>Рис на пару</name>
+<description>Паровой рис.</description>
+<price>85</price>
+<picture>https://www.tanuki.ru//common/upload/ris_1164x1164[1][1].jpg</picture>
+</product>
+<product id="1484"><category_id>20</category_id>
+<name>Овощи Теппан</name>
+<description>Цукини, баклажаны, перец, морковь, шампиньоны, ростки сои, лук, кунжут</description>
+<price>185</price>
+<picture>https://www.tanuki.ru//common/upload/YasaiTeppan_1164[3].jpg</picture>
+</product>
+<product id="1033"><category_id>19</category_id>
+<name>Якитори ассорти</name>
+<description>Креветки, лосось, морской гребешок, курица, кукуруза, кальмар</description>
+<price>935</price>
+<picture>https://static6.tanuki.ru/product/1/LT3XbniB1o4UhAgMLIZdu1OXzONh5Mg1.jpg</picture>
+</product>
+<product id="1115"><category_id>19</category_id>
+<name>Кукуруза</name>
+<description>Шашлычок из кукурузы.</description>
+<price>85</price>
+<picture>https://www.tanuki.ru//common/upload/Kousen-kusi-yaki[2][1].jpg</picture>
+</product>
+<product id="1409"><category_id>19</category_id>
+<name>Курица</name>
+<description>Шашлычок из курицы.</description>
+<price>95</price>
+<picture>https://static6.tanuki.ru/product/1/k60lOEJUeRCu8Hq7ZVlR5HClKin15xRb.jpg</picture>
+</product>
+<product id="1379"><category_id>19</category_id>
+<name>Лосось</name>
+<description>Шашлычок из лосося.</description>
+<price>245</price>
+<picture>https://www.tanuki.ru//common/upload/Syake-kusi-yaki[1].jpg</picture>
+</product>
+<product id="1439"><category_id>19</category_id>
+<name>Гребешок</name>
+<description>Шашлычок из морского гребешка.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/KHotate-kusi-yaki[1][1].jpg</picture>
+</product>
+<product id="1458"><category_id>19</category_id>
+<name>Креветка</name>
+<description>Шашлычок из креветок.</description>
+<price>190</price>
+<picture>https://www.tanuki.ru//common/upload/Ebi-kusi-yaki[1].jpg</picture>
+</product>
+<product id="1286"><category_id>21</category_id>
+<name>Року сан</name>
+<description>Безе, сливочный крем, свежие фрукты.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/dessert_rokusan_1164[3].jpg</picture>
+</product>
+<product id="1126"><category_id>21</category_id>
+<name>Куро ёру</name>
+<description>Киви, ананас, клубника, банан, миндаль и сырный крем.</description>
+<price>285</price>
+<picture>https://www.tanuki.ru//common/upload/KuroYoru_1164[1][1].jpg</picture>
+</product>
+<product id="1211"><category_id>21</category_id>
+<name>Наполеон-сан</name>
+<description>Малина, ананас, клубника, легкий крем и малиновый соус.</description>
+<price>335</price>
+<picture>https://www.tanuki.ru//common/upload/Napoleon_1164[1][1].jpg</picture>
+</product>
+<product id="1022"><category_id>21</category_id>
+<name>Амаи миру</name>
+<description>Сыр маскарпоне, клубника, малина, мандарин, печенье и грецкий орех.</description>
+<price>295</price>
+<picture>https://www.tanuki.ru//common/upload/AmaiMiru_1164[4].jpg</picture>
+</product>
+<product id="1155"><category_id>21</category_id>
+<name>Манго чиа</name>
+<description>Семена чиа, кокосовое молоко, манго.</description>
+<price>290</price>
+<picture>https://static4.tanuki.ru/product/1/r21COlYNbJn2NJ9xQvt24ZAnrVXceivl.jpg</picture>
+</product>
+<product id="1221"><category_id>21</category_id>
+<name>Спелый ананас</name>
+<description>Кусочки спелого ананаса.</description>
+<price>395</price>
+<picture>https://www.tanuki.ru//common/upload/Painappuru_1164[1][1].jpg</picture>
+</product>
+<product id="1404"><category_id>21</category_id>
+<name>Тирамису</name>
+<description>Сыр маскарпоне, бисквитное печенье «савоярди».</description>
+<price>285</price>
+<picture>https://static4.tanuki.ru/product/1/unOg8U7RKhmJWPrIexaif2XYT-wmLBq0.jpg</picture>
+</product>
+<product id="1156"><category_id>21</category_id>
+<name>Манила ролл</name>
+<description>Ананас, киви, сырный крем и малиновый соус.</description>
+<price>285</price>
+<picture>https://www.tanuki.ru//common/upload/Manilaroll_1164[1][1].jpg</picture>
+</product>
+<product id="1201"><category_id>113</category_id>
+<name>Моджи Bubbies "Ассорти"</name>
+<description>Микс из вкусов: тройной шоколад, зеленый чай, маракуйя, манго</description>
+<price>1550</price>
+<picture>https://static6.tanuki.ru/product/1/opza7ewI2CePBEUE2nJw7udG5OdIlLVZ.jpg</picture>
+</product>
+<product id="1185"><category_id>113</category_id>
+<name>Моджи Bubbies "Фисташка"</name>
+<description>Традиционное японское мороженое с фисташковым вкусом в тонком рисовом тесте. 
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi_Pistachio_1164x1164[2].jpg</picture>
+</product>
+<product id="1181"><category_id>113</category_id>
+<name>Моджи Bubbies "Манго"</name>
+<description>Традиционное японское мороженое со вкусом манго в тонком рисовом тесте.
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi_Mango_1164x1164[2].jpg</picture>
+</product>
+<product id="1182"><category_id>113</category_id>
+<name>Моджи Bubbies  "Маракуйя"</name>
+<description>Традиционное японское мороженое со вкусом маракуйи в тонком рисовом тесте.
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi_Passion_Fruit_1164x1164[2].jpg</picture>
+</product>
+<product id="1176"><category_id>113</category_id>
+<name>Моджи Bubbies "Зеленый чай"</name>
+<description>Традиционное японское мороженое со вкусом зеленого чая в тонком рисовом тесте.
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi__Green_Tea_1164x1164[2].jpg</picture>
+</product>
+<product id="1177"><category_id>113</category_id>
+<name>Моджи Bubbies "Клубника"</name>
+<description>Традиционное японское мороженое со вкусом клубники в тонком рисовом тесте.
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi_Strawberry_1164x1164[2].jpg</picture>
+</product>
+<product id="1180"><category_id>113</category_id>
+<name>Моджи Bubbies "Личи"</name>
+<description>Традиционное японское мороженое со вкусом личи в тонком рисовом тесте.
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi_Lychee_1164x1164[2].jpg</picture>
+</product>
+<product id="1183"><category_id>113</category_id>
+<name>Моджи Bubbies "Нежная ваниль"</name>
+<description>Традиционное японское мороженое со вкусом нежной ванили в тонком рисовом тесте.
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi_Vanilla_1164x1164[2].jpg</picture>
+</product>
+<product id="1186"><category_id>113</category_id>
+<name>Моджи Bubbies "Шоколад - эспрессо"</name>
+<description>Традиционное японское мороженое со вкусом шоколада - эспрессо в тонком рисовом тесте.
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi_Chocolate_Espresso_1164x1164[2].jpg</picture>
+</product>
+<product id="1179"><category_id>113</category_id>
+<name>Моджи Bubbies "Красный апельсин"</name>
+<description>Традиционное японское мороженое со вкусом красный апельсин в тонком рисовом тесте.
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi_Blood_Orange_1164x1164[3][1].jpg</picture>
+</product>
+<product id="1184"><category_id>113</category_id>
+<name>Моджи Bubbies "Три шоколада"</name>
+<description>Традиционное японское мороженое со вкусом три шоколада в тонком рисовом тесте.
+6 шт.</description>
+<price>1140</price>
+<picture>https://www.tanuki.ru//common/upload/mochi_Triple_Chocolate_1164x1164[2][1].jpg</picture>
+</product>
+<product id="1002"><category_id>22</category_id>
+<name>Kid’s Box с шашлычками из креветок</name>
+<description>Шашлычки из креветок, картофель фри, кетчуп, овощная закуска с сырным соусом, фруктовый ролл</description>
+<price>395</price>
+<picture>https://static6.tanuki.ru/product/1/zhhLTY5AieIwcdmPEt4vZByGZaR0BrT1.jpg</picture>
+</product>
+<product id="1216"><category_id>22</category_id>
+<name>Овощная закуска с сырным соусом</name>
+<description>Морковь, огурец, болгарский перец, сырный соус</description>
+<price>135</price>
+<picture>https://static6.tanuki.ru/product/1/Gxk9IWZbGS9-l7XZkUCU-rMtWKPe8suc.jpg</picture>
+</product>
+<product id="1123"><category_id>22</category_id>
+<name>Супчик  с фрикадельками</name>
+<description>Куриные фрикадельки, картофель, морковь, макароны «Звездочки», укроп</description>
+<price>180</price>
+<picture>https://static6.tanuki.ru/product/1/Hqzd-KKcYdqk63GPsOuofiMeLtKto5vC.jpg</picture>
+</product>
+<product id="1353"><category_id>22</category_id>
+<name>Супчик с лососем</name>
+<description>Лосось, картофель, морковь, макароны «Звездочки», укроп</description>
+<price>220</price>
+<picture>https://static6.tanuki.ru/product/1/9TeOEa4so0jmWM_5348C_TWb281hJhOA.jpg</picture>
+</product>
+<product id="1453"><category_id>22</category_id>
+<name>Шашлычок из курицы</name>
+<description>Курица, соус якитори</description>
+<price>95</price>
+<picture>https://static6.tanuki.ru/product/1/--E-HmZqWMCj-aBAWcvXWa4qvwUHJVe-.jpg</picture>
+</product>
+<product id="1481"><category_id>33</category_id>
+<name>Ягоды-груша-манго</name>
+<description>Малина, клубника, груша, манго, ананас.500 мл</description>
+<price>370</price>
+<picture>https://static6.tanuki.ru/product/1/bf41VhA1-8IRMkB9oRkH4Cvu4scpx5Yj.jpg</picture>
+</product>
+<product id="1222"><category_id>22</category_id>
+<name>Пельмешки со сметаной</name>
+<description>Свинина, курица, лук, сливочное масло, сметана</description>
+<price>165</price>
+<picture>https://www.tanuki.ru//common/upload/Web-Kids-Pelmen-15Y-Set-1164x1164[1].jpg</picture>
+</product>
+<product id="1153"><category_id>22</category_id>
+<name>Макароны с сыром</name>
+<description>Цветные макароны,  моцарелла,  сливочное масло</description>
+<price>150</price>
+<picture>https://static6.tanuki.ru/product/1/VPLkAaZRkecZm-43ukSMae7tvoY60Itx.jpg</picture>
+</product>
+<product id="1375"><category_id>22</category_id>
+<name>Сырные шарики с клюквенным соусом</name>
+<description>Моцарелла, яйцо,  панировочные сухари, клюквенный соус</description>
+<price>165</price>
+<picture>https://static6.tanuki.ru/product/1/dEmPPV67VScAIiSY7jUzZGAmxkSEr-Hn.jpg</picture>
+</product>
+<product id="1139"><category_id>103</category_id>
+<name>Японская груша</name>
+<description>Лимонад из лимонника, лайма, груши, сиропа груши, сиропа лемонграсс, лимона, содовой. 1000 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/EB97IZZoOnJHpNQq5EW77JbPCQft5ZEV.jpg</picture>
+</product>
+<product id="1133"><category_id>103</category_id>
+<name>Мандарин-юдзу</name>
+<description>Лимонад из мандарина, юзу, сиропа мандарина, сахарного сиропа, сока манго, содовой. 1000 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/plMAvjqIsFah3dYce2vyHATgG0gqwZnb.jpg</picture>
+</product>
+<product id="1197"><category_id>35</category_id>
+<name>Клюквенный морс 500 мл</name>
+<description>Домашний клюквенный морс.500 мл</description>
+<price>230</price>
+<picture>https://static6.tanuki.ru/product/1/AM8ukqBxCrXwLYWg94DRuwmLT1TAKc9l.jpg</picture>
+</product>
+<product id="1199"><category_id>35</category_id>
+<name>Черничный морс 500 мл</name>
+<description>Домашний черничный морс.500 мл</description>
+<price>230</price>
+<picture>https://static6.tanuki.ru/product/1/Z2kNk_meuOHEv3O1DJgFdZr56AzjIgCB.jpg</picture>
+</product>
+<product id="1198"><category_id>35</category_id>
+<name>Клюквенный морс 1000 мл</name>
+<description>Домашний клюквенный морс.1000 мл</description>
+<price>450</price>
+<picture>https://static6.tanuki.ru/product/1/iAoQTbMjpn0ee4EZqUUBMVskBRoZxGvL.jpg</picture>
+</product>
+<product id="1200"><category_id>35</category_id>
+<name>Черничный морс 1000 мл</name>
+<description>Домашний черничный морс.1000 мл</description>
+<price>450</price>
+<picture>https://static6.tanuki.ru/product/1/Ccy5uwT1mbn69T5wZI10Gq6iFIOd4Ewl.jpg</picture>
+</product>
+<product id="1025"><category_id>33</category_id>
+<name>Ананасовый фреш</name>
+<description>Свежевыжатый сок ананаса.500 мл</description>
+<price>750</price>
+<picture>https://static6.tanuki.ru/product/1/-P9i-W_p2rCBAgGqdStRmob8oZBcVlgZ.jpg</picture>
+</product>
+<product id="1175"><category_id>33</category_id>
+<name>Морковь-сельдерей</name>
+<description>Свежевыжатый сок моркови и сельдерея.500 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/lucTSJ43U1VP97ToTbX0E2Af6maMBXHG.jpg</picture>
+</product>
+<product id="1474"><category_id>33</category_id>
+<name>Яблоко-сельдерей-морковь</name>
+<description>Свежевыжатый сок яблока, сельдерея и моркови.500 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/jvIdDVG4CLZWYMfpi3Gk5IS_e_AE6wNv.jpg</picture>
+</product>
+<product id="1473"><category_id>33</category_id>
+<name>Яблоко-сельдерей</name>
+<description>Свежевыжатый сок яблока и сельдерея.500 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/7WYKSDK6K5VoJ4j5i1A05tSUTIXe36nG.jpg</picture>
+</product>
+<product id="1030"><category_id>33</category_id>
+<name>Апельсиновый фреш</name>
+<description>Свежевыжатый сок апельсина.500 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/MSbpWRq9VhFTnoRRcJqjRRvJVeGYeo9_.jpg</picture>
+</product>
+<product id="1068"><category_id>33</category_id>
+<name>Грейпфрутовый фреш</name>
+<description>Свежевыжатый сок грейпфрута.500 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/gs25FLI1F5OFzww1MTlHnjK0QjtvtKkU.jpg</picture>
+</product>
+<product id="1173"><category_id>33</category_id>
+<name>Морковный</name>
+<description>Свежевыжатый сок моркови.500 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/8V3PeGzpl768zC5pRSpYNjqPwDy_nU7-.jpg</picture>
+</product>
+<product id="1480"><category_id>33</category_id>
+<name>Яблочный фреш</name>
+<description>Свежевыжатый сок яблока.500 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/ky1rLobHZYYAP2mXBS37v0qwunxW__TN.jpg</picture>
+</product>
+<product id="1317"><category_id>33</category_id>
+<name>Сельдерей</name>
+<description>Свежевыжатый сок сельдерея.500 мл</description>
+<price>490</price>
+<picture>https://static6.tanuki.ru/product/1/EudxGQPauGjfXh3d6Ys9bPdndUMaAobq.jpg</picture>
+</product>
+<product id="1226"><category_id>37</category_id>
+<name>Пепси 1000 мл</name>
+<description>Производство Россия. Газированный напиток «Пепси».1000 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/pepsi.jpg</picture>
+</product>
+<product id="1230"><category_id>37</category_id>
+<name>Пепси лайт 1000 мл</name>
+<description>Производство Россия. Газированный напиток «Пепси лайт».1000 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/pepsi_light.jpg</picture>
+</product>
+<product id="1314"><category_id>37</category_id>
+<name>Севен ап 1000 мл</name>
+<description>Производство Россия. Газированный напиток «Севен ап».1000 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/7up.jpg</picture>
+</product>
+<product id="1164"><category_id>37</category_id>
+<name>Миринда 1000 мл</name>
+<description>Производство Россия. Газированный напиток «Миринда».1000 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/mirinda.jpg</picture>
+</product>
+<product id="1225"><category_id>37</category_id>
+<name>Пепси 250 мл</name>
+<description>Производство Россия. Газированный напиток «Пепси».250 мл</description>
+<price>170</price>
+<picture>https://www.tanuki.ru//common/upload/pepsi_03.jpg</picture>
+</product>
+<product id="1229"><category_id>37</category_id>
+<name>Пепси лайт 250 мл</name>
+<description>Производство Россия. Газированный напиток «Пепси лайт».250 мл</description>
+<price>170</price>
+<picture>https://www.tanuki.ru//common/upload/pepsi_03_light.jpg</picture>
+</product>
+<product id="1313"><category_id>37</category_id>
+<name>Севен ап 250 мл</name>
+<description>Производство Россия. Газированный напиток «Севен ап».250 мл</description>
+<price>170</price>
+<picture>https://www.tanuki.ru//common/upload/7up_03.jpg</picture>
+</product>
+<product id="1163"><category_id>37</category_id>
+<name>Миринда 250 мл</name>
+<description>Производство Россия. Газированный напиток «Миринда».250 мл</description>
+<price>170</price>
+<picture>https://www.tanuki.ru//common/upload/mirinda_03.jpg</picture>
+</product>
+<product id="1295"><category_id>37</category_id>
+<name>Липтон Имбирь Лемонграсс</name>
+<description>Производство Россия. Холодный чай «Липтон Имбирь Лемонграсс». 1000 мл</description>
+<price>185</price>
+<picture>https://www.tanuki.ru//common/upload/napitki_1164x1164_iyzu[1][1].jpg</picture>
+</product>
+<product id="1296"><category_id>37</category_id>
+<name>Липтон Лайм Юзу</name>
+<description>Производство Россия. Холодный чай «Липтон Лайм Юзу».1000 мл</description>
+<price>185</price>
+<picture>https://www.tanuki.ru//common/upload/napitki_1164x1164_imbir[1][1].jpg</picture>
+</product>
+<product id="1447"><category_id>37</category_id>
+<name>Липтон персик</name>
+<description>Производство Россия. Холодный чай «Липтон персик».1000 мл</description>
+<price>185</price>
+<picture>https://www.tanuki.ru//common/upload/lipton_peach.jpg</picture>
+</product>
+<product id="1446"><category_id>37</category_id>
+<name>Липтон лимон</name>
+<description>Производство Россия. Холодный чай «Липтон лимон».1000 мл</description>
+<price>185</price>
+<picture>https://www.tanuki.ru//common/upload/lipton_lemon.jpg</picture>
+</product>
+<product id="1445"><category_id>37</category_id>
+<name>Липтон земляника и клюква</name>
+<description>Производство Россия. Холодный чай «Липтон земляника и клюква».1000 мл</description>
+<price>185</price>
+<picture>https://www.tanuki.ru//common/upload/lipton_green.jpg</picture>
+</product>
+<product id="1465"><category_id>37</category_id>
+<name>Эвервесс</name>
+<description>Производство Россия. Газированный напиток «Тоник».250 мл</description>
+<price>170</price>
+<picture>https://www.tanuki.ru//common/upload/everves.jpg</picture>
+</product>
+<product id="1019"><category_id>36</category_id>
+<name>Аква минерале (с газом) 1000 мл</name>
+<description>Производство Россия. Минеральная вода «Аква минерале» с газом.1000 мл</description>
+<price>170</price>
+<picture>https://www.tanuki.ru//common/upload/aqua[2].jpg</picture>
+</product>
+<product id="1013"><category_id>36</category_id>
+<name>Аква минерале (без газа) 1000 мл</name>
+<description>Производство Россия. Минеральная вода «Аква минерале» с газом.1000 мл</description>
+<price>170</price>
+<picture>https://www.tanuki.ru//common/upload/aqua_NA.jpg</picture>
+</product>
+<product id="1018"><category_id>36</category_id>
+<name>Аква минерале (с газом) 260 мл</name>
+<description>Производство Россия. Минеральная вода «Аква минерале» с газом.260 мл</description>
+<price>170</price>
+<picture>https://www.tanuki.ru//common/upload/aqua_03_gazed.jpg</picture>
+</product>
+<product id="1012"><category_id>36</category_id>
+<name>Аква минерале (без газа) 260 мл</name>
+<description>Производство Россия. Минеральная вода «Аква минерале» с газом.260 мл</description>
+<price>170</price>
+<picture>https://www.tanuki.ru//common/upload/aqua_03.jpg</picture>
+</product>
+<product id="1334"><category_id>60</category_id>
+<name>Грейпфрутовый сок</name>
+<description>Производство Россия. Пакетированный грейпфрутовый сок.970 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/OK_J7_0970_11_Grapefruit_1164.jpg</picture>
+</product>
+<product id="1332"><category_id>60</category_id>
+<name>Апельсиновый сок</name>
+<description>Производство Россия. Пакетированный апельсиновый сок.970 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/OK_J7_0970_02_Orange_1164.jpg</picture>
+</product>
+<product id="1335"><category_id>60</category_id>
+<name>Персиковый</name>
+<description>Производство Россия. Пакетированный персиковый сок.970 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/OK_J7_0970_05_Peach_1164.jpg</picture>
+</product>
+<product id="1333"><category_id>60</category_id>
+<name>Вишнёвый</name>
+<description>Производство Россия. Пакетированный вишнёвый сок.970 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/OK_J7_0970_09_Cherry_1164.jpg</picture>
+</product>
+<product id="1336"><category_id>60</category_id>
+<name>Томатный</name>
+<description>Производство Россия. Пакетированный томатный сок. 970 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/OK_J7_0970_06_Tomat_1164.jpg</picture>
+</product>
+<product id="1337"><category_id>60</category_id>
+<name>Яблочный сок</name>
+<description>Производство Россия. Пакетированный яблочный сок. 970 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/OK_J7_0970_03_Apple_1164.jpg</picture>
+</product>
+<product id="1331"><category_id>60</category_id>
+<name>Ананасовый сок</name>
+<description>Производство Россия. Пакетированный ананасовый сок.970 мл</description>
+<price>180</price>
+<picture>https://www.tanuki.ru//common/upload/OK_J7_0970_14_Ananas_1164.jpg</picture>
+</product>
+<product id="1352"><category_id>37</category_id>
+<name>Стелла Артуа б/а</name>
+<description>Самое популярное бельгийское пиво. Безалкогольное светлое пастеризованное пиво с изысканным, слегка горьковатым вкусом и благородным послевкусием. Производитель: «Сан ИнБев», Россия. Официальный дистрибутор: ООО «Старый Мастер». 500 мл</description>
+<price>290</price>
+<picture>https://static4.tanuki.ru/product/1/0ztX9BCGhPgkvt6J1jINQiZ--YuRm9eY.jpg</picture>
+</product>
+<product id="1049"><category_id>23</category_id>
+<name>Васаби</name>
+<description>Большая порция васаби.</description>
+<price>60</price>
+<picture>https://www.tanuki.ru//common/upload/vasabi_1164x1164[7].jpg</picture>
+</product>
+<product id="1091"><category_id>23</category_id>
+<name>Имбирь</name>
+<description>Большая порция имбиря.</description>
+<price>30</price>
+<picture>https://www.tanuki.ru//common/upload/imbir_1164x1164[2][1].jpg</picture>
+</product>
+<product id="1109"><category_id>23</category_id>
+<name>Кетчуп</name>
+<description>Классический кетчуп.</description>
+<price>30</price>
+<picture>https://www.tanuki.ru//common/upload/ketchup_1164[1][1].jpg</picture>
+</product>
+<product id="1338"><category_id>23</category_id>
+<name>Гамадари</name>
+<description>Ореховый соус.</description>
+<price>45</price>
+<picture>https://www.tanuki.ru//common/upload/gamadari_1164[2][1].jpg</picture>
+</product>
+<product id="1339"><category_id>23</category_id>
+<name>Гёдза</name>
+<description>Слегка сладкий соевый соус с кунжутным маслом и острым маслом «Раю».</description>
+<price>45</price>
+<picture>https://www.tanuki.ru//common/upload/gyedza_1164[2][1].jpg</picture>
+</product>
+<product id="1347"><category_id>23</category_id>
+<name>Хойсин</name>
+<description>Японский сливовый соус со сладко-пряным вкусом.</description>
+<price>45</price>
+<picture>https://www.tanuki.ru//common/upload/hoisin_1164[2][1].jpg</picture>
+</product>
+<product id="1344"><category_id>23</category_id>
+<name>Тайский</name>
+<description>Остро-сладкий соус.</description>
+<price>45</price>
+<picture>https://www.tanuki.ru//common/upload/taiskiy_1164[2][1].jpg</picture>
+</product>
+<product id="1489"><category_id>23</category_id>
+<name>Шогояки</name>
+<description>Cоус "Терияки", чеснок, перец чили, кунжут, кинза, соус "Мирин", 30 г</description>
+<price>55</price>
+<picture>https://www.tanuki.ru//common/upload/shogoyaki_1164[1][1].jpg</picture>
+</product>
+<product id="1342"><category_id>23</category_id>
+<name>Кохаку</name>
+<description>Соус тайский, уксус, кинза, сельдерей, перец чили, чеснок, 30 г</description>
+<price>55</price>
+<picture>https://www.tanuki.ru//common/upload/kohaku_1164[1][1].jpg</picture>
+</product>
+<product id="1346"><category_id>23</category_id>
+<name>Унаги</name>
+<description>Соус соевый, сахар, соус "Мирин", угорь, 30 г</description>
+<price>45</price>
+<picture>https://www.tanuki.ru//common/upload/unagi_1164[1][1].jpg</picture>
+</product>
+<product id="1081"><category_id>23</category_id>
+<name>Соевый соус</name>
+<description>Традиционный японский соус, приготовленный по уникальному домашнему рецепту.</description>
+<price>45</price>
+<picture>https://www.tanuki.ru//common/upload/soeviy_1164[4][1].jpg</picture>
+</product>
+</products>
+</delivery_service>
+</dc_catalog>
